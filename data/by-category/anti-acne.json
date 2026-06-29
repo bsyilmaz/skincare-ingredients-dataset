@@ -1,0 +1,365 @@
+[
+  {
+    "id": "adapalene",
+    "inci_name": "Adapalene",
+    "common_name": "Adapalene",
+    "also_known_as": [
+      "Differin"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-acne",
+      "Anti-aging"
+    ],
+    "description": "A stable, OTC third-generation retinoid that targets acne and refines texture with less irritation.",
+    "benefits": [
+      "Clears and prevents acne",
+      "Unclogs pores",
+      "Smooths texture",
+      "Photostable"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Initial purging and dryness",
+      "Avoid in pregnancy"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.3%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Benzoyl Peroxide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "azelaic-acid",
+    "inci_name": "Azelaic Acid",
+    "common_name": "Azelaic Acid",
+    "also_known_as": [
+      "AzA",
+      "Nonanedioic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "Skin-brightening",
+      "Anti-acne",
+      "Soothing"
+    ],
+    "description": "A multitasking dicarboxylic acid from grains that treats acne, rosacea and pigmentation.",
+    "benefits": [
+      "Calms redness and rosacea",
+      "Fades post-acne marks",
+      "Unclogs pores",
+      "Gentle brightening"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "all"
+    ],
+    "concerns": [
+      "Temporary tingling or dryness when starting"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "10-20%",
+    "ph_range": "4.0-5.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "benzoyl-peroxide",
+    "inci_name": "Benzoyl Peroxide",
+    "common_name": "Benzoyl Peroxide",
+    "also_known_as": [
+      "BP",
+      "BPO"
+    ],
+    "category": [
+      "Anti-acne",
+      "Antibacterial"
+    ],
+    "description": "A powerful antibacterial that kills acne-causing bacteria and clears inflammatory breakouts.",
+    "benefits": [
+      "Kills acne bacteria",
+      "Clears inflammatory acne",
+      "Reduces whiteheads",
+      "Prevents resistance"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Drying and irritating",
+      "Bleaches fabrics",
+      "Deactivates if layered with vitamin C or retinol"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2.5-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Adapalene"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid"
+    ]
+  },
+  {
+    "id": "salicylic-acid",
+    "inci_name": "Salicylic Acid",
+    "common_name": "Salicylic Acid",
+    "also_known_as": [
+      "BHA",
+      "Beta Hydroxy Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "BHA",
+      "Anti-acne"
+    ],
+    "description": "An oil-soluble beta-hydroxy acid that penetrates pores to dissolve sebum and dead skin.",
+    "benefits": [
+      "Unclogs and shrinks pores",
+      "Reduces blackheads and breakouts",
+      "Controls oil",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Can over-dry skin",
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-2%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Zinc"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Glycolic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "sulfur",
+    "inci_name": "Sulfur",
+    "common_name": "Sulfur",
+    "also_known_as": [
+      "Sulphur"
+    ],
+    "category": [
+      "Anti-acne",
+      "Exfoliant"
+    ],
+    "description": "A traditional keratolytic that dries out blemishes and absorbs excess oil.",
+    "benefits": [
+      "Dries blemishes",
+      "Absorbs oil",
+      "Mildly exfoliates",
+      "Helps rosacea and seborrhea"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Drying",
+      "Distinctive smell"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "3-10%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tea-tree-oil",
+    "inci_name": "Melaleuca Alternifolia Leaf Oil",
+    "common_name": "Tea Tree Oil",
+    "also_known_as": [
+      "Melaleuca Alternifolia",
+      "TTO"
+    ],
+    "category": [
+      "Anti-acne",
+      "Antibacterial",
+      "Soothing"
+    ],
+    "description": "An essential oil with antibacterial terpinen-4-ol that helps spot-treat blemishes.",
+    "benefits": [
+      "Antibacterial spot treatment",
+      "Reduces acne",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate or sensitize undiluted",
+      "Essential oil allergen"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "niacinamide-zinc",
+    "inci_name": "Zinc",
+    "common_name": "Zinc (Sebum control)",
+    "also_known_as": [
+      "Zinc Gluconate",
+      "Zinc salts"
+    ],
+    "category": [
+      "Anti-acne",
+      "Soothing"
+    ],
+    "description": "Zinc salts that help regulate oil and calm blemish-prone skin, often paired with niacinamide.",
+    "benefits": [
+      "Controls sebum",
+      "Calms acne",
+      "Soothes",
+      "Antibacterial"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Well tolerated at cosmetic levels"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "zinc-pca",
+    "inci_name": "Zinc PCA",
+    "common_name": "Zinc PCA",
+    "also_known_as": [
+      "Zinc Pyrrolidone Carboxylate"
+    ],
+    "category": [
+      "Soothing",
+      "Anti-acne",
+      "Humectant"
+    ],
+    "description": "A zinc salt that regulates oil and calms blemish-prone skin while lightly hydrating.",
+    "benefits": [
+      "Controls sebum",
+      "Calms acne",
+      "Antibacterial",
+      "Light hydration"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  }
+]

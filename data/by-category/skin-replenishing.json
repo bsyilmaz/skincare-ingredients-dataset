@@ -1,0 +1,896 @@
+[
+  {
+    "id": "allantoin",
+    "inci_name": "Allantoin",
+    "common_name": "Allantoin",
+    "also_known_as": [
+      "Comfrey extract derivative"
+    ],
+    "category": [
+      "Soothing",
+      "Skin-replenishing"
+    ],
+    "description": "A gentle, comfrey-derived soother that calms, smooths and promotes skin renewal.",
+    "benefits": [
+      "Soothes irritation",
+      "Promotes cell turnover",
+      "Softens skin",
+      "Non-irritating"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Extremely well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Panthenol",
+      "Niacinamide",
+      "Centella Asiatica"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "centella-asiatica",
+    "inci_name": "Centella Asiatica Extract",
+    "common_name": "Centella Asiatica (Cica)",
+    "also_known_as": [
+      "Cica",
+      "Gotu Kola",
+      "Tiger grass",
+      "Madecassoside source"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant",
+      "Skin-replenishing"
+    ],
+    "description": "A calming herb rich in madecassoside that soothes, heals and strengthens the barrier.",
+    "benefits": [
+      "Calms redness and irritation",
+      "Speeds healing",
+      "Antioxidant",
+      "Strengthens barrier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Panthenol",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ceramide-np",
+    "inci_name": "Ceramide NP",
+    "common_name": "Ceramide NP",
+    "also_known_as": [
+      "Ceramide 3",
+      "Phytosphingosine ceramide"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Emollient"
+    ],
+    "description": "A key barrier lipid that replenishes the 'mortar' between skin cells to seal in moisture.",
+    "benefits": [
+      "Repairs and strengthens barrier",
+      "Reduces moisture loss",
+      "Calms sensitivity",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Works best blended with cholesterol and fatty acids"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Cholesterol",
+      "Fatty acids",
+      "Niacinamide",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cholesterol",
+    "inci_name": "Cholesterol",
+    "common_name": "Cholesterol",
+    "also_known_as": [
+      "Skin lipid"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Emollient"
+    ],
+    "description": "A natural skin lipid that, alongside ceramides and fatty acids, restores the moisture barrier.",
+    "benefits": [
+      "Restores barrier lipids",
+      "Softens",
+      "Improves elasticity",
+      "Works with ceramides"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Best in 3:1:1 ratio with ceramides and fatty acids"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramide NP",
+      "Phytosphingosine",
+      "Fatty acids"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glycerin",
+    "inci_name": "Glycerin",
+    "common_name": "Glycerin",
+    "also_known_as": [
+      "Glycerol",
+      "Glycerine"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "The most-used humectant in skincare; a gold-standard hydrator that mimics skin's natural moisture factor.",
+    "benefits": [
+      "Reliable hydration",
+      "Strengthens barrier",
+      "Non-irritating",
+      "Boosts other actives"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "oily"
+    ],
+    "concerns": [
+      "Sticky feel at very high concentrations"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "2-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides",
+      "Almost everything"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hyaluronic-acid",
+    "inci_name": "Hyaluronic Acid",
+    "common_name": "Hyaluronic Acid",
+    "also_known_as": [
+      "HA",
+      "Hyaluronan"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "A powerhouse humectant that can hold up to 1000x its weight in water for plump hydration.",
+    "benefits": [
+      "Intense surface hydration",
+      "Plumps fine lines",
+      "Suits every skin type",
+      "Lightweight"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "oily"
+    ],
+    "concerns": [
+      "Can draw moisture out of skin in very dry climates if not sealed with moisturizer"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Retinol",
+      "Vitamin C",
+      "Ceramides",
+      "Peptides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hydrolyzed-collagen",
+    "inci_name": "Hydrolyzed Collagen",
+    "common_name": "Hydrolyzed Collagen",
+    "also_known_as": [
+      "Marine collagen",
+      "Collagen peptides"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "Small collagen fragments that act as humectants and film-formers for smoother, plumper skin.",
+    "benefits": [
+      "Surface hydration",
+      "Temporary plumping",
+      "Smooth film",
+      "Improves feel"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "Does not replace skin's own collagen; works on the surface"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Peptides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "jojoba-oil",
+    "inci_name": "Simmondsia Chinensis Seed Oil",
+    "common_name": "Jojoba Oil",
+    "also_known_as": [
+      "Simmondsia Chinensis",
+      "Jojoba"
+    ],
+    "category": [
+      "Emollient",
+      "Skin-replenishing"
+    ],
+    "description": "A liquid wax ester closely resembling human sebum, balancing both oily and dry skin.",
+    "benefits": [
+      "Balances oil production",
+      "Non-greasy moisture",
+      "Soothes",
+      "Long shelf life"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination",
+      "acne-prone",
+      "dry"
+    ],
+    "concerns": [
+      "Generally non-comedogenic"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lactic-acid-bacteria-ferment",
+    "inci_name": "Lactobacillus Ferment",
+    "common_name": "Lactobacillus Ferment (Probiotic)",
+    "also_known_as": [
+      "Probiotic ferment",
+      "Postbiotic"
+    ],
+    "category": [
+      "Soothing",
+      "Skin-replenishing",
+      "Antioxidant"
+    ],
+    "description": "A probiotic-derived ferment that supports the skin microbiome and strengthens the barrier.",
+    "benefits": [
+      "Balances skin microbiome",
+      "Strengthens barrier",
+      "Soothes",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Emerging evidence"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Beta-Glucan",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "madecassoside",
+    "inci_name": "Madecassoside",
+    "common_name": "Madecassoside",
+    "also_known_as": [
+      "Centella active",
+      "Cica active"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant",
+      "Skin-replenishing"
+    ],
+    "description": "The most active soothing compound isolated from Centella asiatica, prized for calming and repair.",
+    "benefits": [
+      "Powerfully calms irritation",
+      "Supports barrier repair",
+      "Antioxidant",
+      "Reduces redness"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Centella Asiatica",
+      "Niacinamide",
+      "Panthenol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "niacinamide",
+    "inci_name": "Niacinamide",
+    "common_name": "Niacinamide",
+    "also_known_as": [
+      "Nicotinamide",
+      "Vitamin B3",
+      "Vitamin PP"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Antioxidant",
+      "Skin-brightening",
+      "Soothing"
+    ],
+    "description": "A versatile form of vitamin B3 that strengthens the skin barrier and regulates oil.",
+    "benefits": [
+      "Minimizes appearance of pores",
+      "Evens skin tone",
+      "Strengthens moisture barrier",
+      "Controls excess sebum"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "acne-prone",
+      "sensitive"
+    ],
+    "concerns": [
+      "Very high concentrations (>10%) can cause flushing or irritation in some users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Salicylic Acid",
+      "Zinc",
+      "Retinol",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "panthenol",
+    "inci_name": "Panthenol",
+    "common_name": "Panthenol (Pro-Vitamin B5)",
+    "also_known_as": [
+      "Pro-Vitamin B5",
+      "Dexpanthenol",
+      "Vitamin B5"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing",
+      "Skin-replenishing"
+    ],
+    "description": "A pro-vitamin B5 that hydrates, soothes and supports wound healing.",
+    "benefits": [
+      "Deeply hydrates",
+      "Calms irritation and redness",
+      "Speeds barrier repair",
+      "Softens skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Extremely well tolerated; rare allergy"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Centella Asiatica",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "phytosphingosine",
+    "inci_name": "Phytosphingosine",
+    "common_name": "Phytosphingosine",
+    "also_known_as": [
+      "PS"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Soothing"
+    ],
+    "description": "A lipid building block of ceramides with soothing and antimicrobial properties.",
+    "benefits": [
+      "Supports barrier",
+      "Anti-inflammatory",
+      "Antimicrobial",
+      "Boosts ceramide production"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "acne-prone",
+      "all"
+    ],
+    "concerns": [
+      "Well tolerated at low %"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.2-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Ceramide NP",
+      "Cholesterol",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "polyglutamic-acid",
+    "inci_name": "Polyglutamic Acid",
+    "common_name": "Polyglutamic Acid",
+    "also_known_as": [
+      "PGA"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "A fermentation-derived humectant said to hold even more moisture than hyaluronic acid at the surface.",
+    "benefits": [
+      "Intense surface hydration",
+      "Forms a moisture-locking film",
+      "Smooths",
+      "Plumps"
+    ],
+    "skin_types": [
+      "dry",
+      "all",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Best layered under an occlusive"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "snail-mucin",
+    "inci_name": "Snail Secretion Filtrate",
+    "common_name": "Snail Mucin",
+    "also_known_as": [
+      "SSF",
+      "Snail filtrate"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing",
+      "Skin-replenishing"
+    ],
+    "description": "A K-beauty staple rich in glycoproteins and hyaluronic acid that hydrates and repairs.",
+    "benefits": [
+      "Hydrates and plumps",
+      "Supports healing and repair",
+      "Improves texture",
+      "Soothes"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Not vegan"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-95%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Centella Asiatica"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-hyaluronate",
+    "inci_name": "Sodium Hyaluronate",
+    "common_name": "Sodium Hyaluronate",
+    "also_known_as": [
+      "HA salt",
+      "Low molecular weight HA"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "The salt form of hyaluronic acid with a smaller molecule that penetrates deeper.",
+    "benefits": [
+      "Deeper hydration than HA",
+      "Plumps skin",
+      "Lightweight",
+      "Stable"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive"
+    ],
+    "concerns": [
+      "Very low molecular weight may irritate sensitive skin in rare cases"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Retinol",
+      "Vitamin C",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-lactate",
+    "inci_name": "Sodium Lactate",
+    "common_name": "Sodium Lactate",
+    "also_known_as": [
+      "Lactate salt",
+      "NMF component"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "The salt of lactic acid and a natural moisturizing factor that hydrates and buffers pH.",
+    "benefits": [
+      "Hydrates",
+      "Part of skin's NMF",
+      "Buffers pH",
+      "Mildly exfoliating at high %"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "Can increase photosensitivity at high levels"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Glycerin",
+      "Sodium PCA",
+      "Urea"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-pca",
+    "inci_name": "Sodium PCA",
+    "common_name": "Sodium PCA",
+    "also_known_as": [
+      "NaPCA",
+      "Sodium Pyrrolidone Carboxylate"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "A component of skin's natural moisturizing factor that binds water effectively.",
+    "benefits": [
+      "Natural-feel hydration",
+      "Part of skin's NMF",
+      "Lightweight",
+      "Improves softness"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.2-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "squalane",
+    "inci_name": "Squalane",
+    "common_name": "Squalane",
+    "also_known_as": [
+      "Olive squalane",
+      "Sugarcane squalane"
+    ],
+    "category": [
+      "Emollient",
+      "Skin-replenishing"
+    ],
+    "description": "A stable, lightweight oil that mimics skin's own sebum for weightless moisture.",
+    "benefits": [
+      "Softens without greasiness",
+      "Mimics skin lipids",
+      "Suits oily and dry skin",
+      "Locks in moisture"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "oily",
+      "sensitive",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Retinol",
+      "Vitamin C",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "urea",
+    "inci_name": "Urea",
+    "common_name": "Urea",
+    "also_known_as": [
+      "Carbamide"
+    ],
+    "category": [
+      "Humectant",
+      "Exfoliant",
+      "Skin-replenishing"
+    ],
+    "description": "A dual-action ingredient that hydrates at low doses and gently exfoliates at higher doses.",
+    "benefits": [
+      "Hydrates dry, rough skin",
+      "Softens calluses at high %",
+      "Part of skin's NMF",
+      "Improves penetration"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Can sting compromised skin at high concentrations"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10% (up to 40% for feet)",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramides",
+      "Glycerin",
+      "Lactic Acid"
+    ],
+    "avoid_with": []
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "version": "1.0.0",
+  "description": "Pairwise ingredient mixing rules. Each ingredient belongs to one or more groups; rules are defined between groups. Severity: avoid | caution | great | essential.",
+  "disclaimer": "Educational reference only, not medical advice. Tolerance is individual. When in doubt, patch test and introduce one active at a time.",
+  "groups": {
+    "retinoids": ["retinol", "retinaldehyde", "retinyl-palmitate", "retinyl-retinoate", "adapalene"],
+    "vitamin_c_pure": ["ascorbic-acid"],
+    "vitamin_c_derivative": ["tetrahexyldecyl-ascorbate", "sodium-ascorbyl-phosphate", "magnesium-ascorbyl-phosphate", "ascorbyl-glucoside"],
+    "aha": ["glycolic-acid", "lactic-acid", "mandelic-acid", "citric-acid"],
+    "bha": ["salicylic-acid"],
+    "pha": ["gluconolactone", "lactobionic-acid"],
+    "benzoyl_peroxide": ["benzoyl-peroxide"],
+    "copper_peptides": ["copper-tripeptide-1"],
+    "peptides": ["matrixyl", "argireline", "peptide-complex-tripeptide-1", "palmitoyl-tetrapeptide-7"],
+    "niacinamide": ["niacinamide"],
+    "hydrators": ["hyaluronic-acid", "sodium-hyaluronate", "glycerin", "panthenol", "beta-glucan", "polyglutamic-acid", "ectoin"],
+    "barrier_lipids": ["ceramide-np", "cholesterol", "phytosphingosine", "squalane"],
+    "soothers": ["centella-asiatica", "madecassoside", "allantoin", "bisabolol", "colloidal-oatmeal", "glycyrrhetinic-acid"],
+    "azelaic": ["azelaic-acid"],
+    "sunscreen": ["zinc-oxide", "titanium-dioxide", "avobenzone", "tinosorb-s", "tinosorb-m", "octocrylene", "octinoxate", "octisalate", "homosalate", "uvinul-a-plus"]
+  },
+  "rules": [
+    {
+      "a": "retinoids", "b": "aha", "severity": "caution",
+      "reason": "Stacking a retinoid with AHAs in the same routine can cause cumulative irritation and over-exfoliation.",
+      "recommendation": "Alternate on different nights (e.g. acids Mon/Wed/Fri, retinoid Tue/Thu/Sat). Buffer with moisturizer."
+    },
+    {
+      "a": "retinoids", "b": "bha", "severity": "caution",
+      "reason": "Both increase cell turnover and can together overwhelm the barrier, especially when starting out.",
+      "recommendation": "Use on alternate nights, or BHA in the AM and retinoid in the PM if tolerated."
+    },
+    {
+      "a": "retinoids", "b": "vitamin_c_pure", "severity": "caution",
+      "reason": "Pure L-ascorbic acid works best at low pH while retinoids prefer a higher pH; layered together they can irritate.",
+      "recommendation": "Split them: vitamin C in the morning, retinoid at night."
+    },
+    {
+      "a": "retinoids", "b": "benzoyl_peroxide", "severity": "caution",
+      "reason": "Benzoyl peroxide can oxidize and deactivate older retinoids like retinol, and the combo is drying. (Note: adapalene is specifically stable with BPO.)",
+      "recommendation": "Use BPO in the AM and retinol in the PM. Adapalene + BPO together is fine and well studied."
+    },
+    {
+      "a": "vitamin_c_pure", "b": "benzoyl_peroxide", "severity": "avoid",
+      "reason": "Benzoyl peroxide oxidizes ascorbic acid, neutralizing both ingredients.",
+      "recommendation": "Use at completely separate times (different parts of the day) or on different days."
+    },
+    {
+      "a": "vitamin_c_pure", "b": "aha", "severity": "caution",
+      "reason": "Both are acidic; layering raises the total acid load and the chance of stinging or irritation.",
+      "recommendation": "Use vitamin C in the AM and acids in the PM, or alternate days."
+    },
+    {
+      "a": "vitamin_c_pure", "b": "niacinamide", "severity": "great",
+      "reason": "The classic 'don't mix' warning is a debunked myth; modern stable formulas use both together for brightening.",
+      "recommendation": "Safe to layer. If you notice flushing with a homemade mix, simply space them a few minutes apart."
+    },
+    {
+      "a": "copper_peptides", "b": "vitamin_c_pure", "severity": "avoid",
+      "reason": "Copper peptides and ascorbic acid can form inactive complexes, reducing the benefit of both.",
+      "recommendation": "Use copper peptides at night and vitamin C in the morning."
+    },
+    {
+      "a": "copper_peptides", "b": "aha", "severity": "caution",
+      "reason": "The low pH of direct acids can disrupt the copper-peptide bond.",
+      "recommendation": "Separate into different routines (AM/PM) for best stability."
+    },
+    {
+      "a": "copper_peptides", "b": "retinoids", "severity": "caution",
+      "reason": "Both are potent; using together adds little and may irritate sensitive skin.",
+      "recommendation": "Alternate routines — peptides one night, retinoid the next."
+    },
+    {
+      "a": "bha", "b": "niacinamide", "severity": "great",
+      "reason": "Salicylic acid clears pores while niacinamide calms inflammation and regulates oil — an ideal acne duo.",
+      "recommendation": "Layer freely; great for oily and acne-prone skin."
+    },
+    {
+      "a": "niacinamide", "b": "hydrators", "severity": "great",
+      "reason": "Niacinamide pairs with hyaluronic acid and other humectants for barrier support and hydration.",
+      "recommendation": "Layer humectant first on damp skin, then niacinamide."
+    },
+    {
+      "a": "retinoids", "b": "hydrators", "severity": "great",
+      "reason": "Humectants and ceramides buffer retinoid dryness and reduce irritation.",
+      "recommendation": "Apply a hydrating layer before or after the retinoid (the 'sandwich' method)."
+    },
+    {
+      "a": "retinoids", "b": "barrier_lipids", "severity": "great",
+      "reason": "Ceramides, cholesterol and squalane restore the barrier that retinoids can temporarily compromise.",
+      "recommendation": "Follow your retinoid with a ceramide moisturizer."
+    },
+    {
+      "a": "retinoids", "b": "peptides", "severity": "good",
+      "reason": "Peptides support collagen alongside a retinoid without competing chemically.",
+      "recommendation": "Layer peptides under the retinoid, or use peptides AM and retinoid PM."
+    },
+    {
+      "a": "retinoids", "b": "soothers", "severity": "great",
+      "reason": "Centella, allantoin and oat calm the redness and irritation a retinoid can cause.",
+      "recommendation": "Layer a soothing serum before the retinoid to improve tolerance."
+    },
+    {
+      "a": "aha", "b": "sunscreen", "severity": "essential",
+      "reason": "AHAs thin the surface layer and increase UV sensitivity for up to a week.",
+      "recommendation": "Daily broad-spectrum SPF is non-negotiable when using acids."
+    },
+    {
+      "a": "retinoids", "b": "sunscreen", "severity": "essential",
+      "reason": "Retinoids increase photosensitivity and are degraded by UV.",
+      "recommendation": "Use retinoids at night and wear SPF every morning."
+    },
+    {
+      "a": "azelaic", "b": "niacinamide", "severity": "great",
+      "reason": "Both calm redness and target acne and pigmentation gently — a strong sensitive-skin combo.",
+      "recommendation": "Layer freely, AM or PM."
+    },
+    {
+      "a": "azelaic", "b": "retinoids", "severity": "good",
+      "reason": "Azelaic acid is gentle and complements retinoids for acne and tone without harsh exfoliation.",
+      "recommendation": "Can be layered, or azelaic AM and retinoid PM if sensitive."
+    },
+    {
+      "a": "vitamin_c_derivative", "b": "niacinamide", "severity": "great",
+      "reason": "Stable vitamin C derivatives layer comfortably with niacinamide for brightening.",
+      "recommendation": "Layer freely in the AM under sunscreen."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "categories": {
+    "Humectant": "Draws and binds water to the skin's surface for hydration (e.g. glycerin, hyaluronic acid).",
+    "Emollient": "Softens and smooths skin by filling gaps between skin cells (e.g. squalane, shea butter).",
+    "Occlusive": "Forms a protective layer that seals in moisture and reduces water loss (e.g. petrolatum, dimethicone).",
+    "Antioxidant": "Neutralizes free radicals from UV and pollution to protect against premature aging (e.g. vitamin C, vitamin E).",
+    "Exfoliant": "Removes dead surface cells to smooth texture and unclog pores (AHAs, BHA, PHAs).",
+    "AHA": "Alpha-hydroxy acids — water-soluble exfoliants that work on the surface (glycolic, lactic).",
+    "BHA": "Beta-hydroxy acid — oil-soluble exfoliant that penetrates pores (salicylic acid).",
+    "PHA": "Polyhydroxy acids — gentle, hydrating next-generation exfoliants (gluconolactone).",
+    "Cell-communicating": "Signals skin cells to behave more youthfully, such as boosting collagen (retinoids, peptides).",
+    "Anti-aging": "Targets visible signs of aging like fine lines, loss of firmness and uneven tone.",
+    "Skin-brightening": "Fades dark spots and evens skin tone by interfering with melanin production.",
+    "Skin-replenishing": "Restores substances skin naturally contains to support a healthy barrier (ceramides, NMF).",
+    "Soothing": "Calms inflammation, redness and irritation (centella, allantoin, oat).",
+    "Anti-acne": "Treats or prevents breakouts by clearing pores, killing bacteria or controlling oil.",
+    "Antibacterial": "Reduces acne-causing or harmful bacteria on the skin.",
+    "UV filter": "Absorbs or reflects ultraviolet radiation to protect against sun damage (sunscreen actives).",
+    "Surfactant": "Cleansing agent that lifts away oil and dirt and creates foam.",
+    "Cleansing": "Functions to remove dirt, oil, sunscreen and makeup from the skin.",
+    "Preservative": "Prevents microbial growth so a product stays safe to use over time.",
+    "Chelator": "Binds metal ions to keep formulas stable and boost preservative efficacy.",
+    "Stabilizer": "Keeps a formula's texture, color or actives stable over time.",
+    "Thickener": "Adjusts viscosity to give products their gel, lotion or cream texture.",
+    "Emulsifier": "Binds oil and water together so they don't separate.",
+    "Solvent": "Dissolves other ingredients and adjusts how a product spreads and absorbs.",
+    "pH adjuster": "Used in trace amounts to set a formula's final pH.",
+    "Astringent": "Tightens skin and helps control excess oil.",
+    "Deodorant": "Helps neutralize odor.",
+    "Fragrance": "Adds scent for sensory appeal; a common source of irritation or allergy."
+  }
+}

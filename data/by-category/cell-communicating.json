@@ -1,0 +1,469 @@
+[
+  {
+    "id": "adapalene",
+    "inci_name": "Adapalene",
+    "common_name": "Adapalene",
+    "also_known_as": [
+      "Differin"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-acne",
+      "Anti-aging"
+    ],
+    "description": "A stable, OTC third-generation retinoid that targets acne and refines texture with less irritation.",
+    "benefits": [
+      "Clears and prevents acne",
+      "Unclogs pores",
+      "Smooths texture",
+      "Photostable"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Initial purging and dryness",
+      "Avoid in pregnancy"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.3%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Benzoyl Peroxide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "argireline",
+    "inci_name": "Acetyl Hexapeptide-8",
+    "common_name": "Argireline",
+    "also_known_as": [
+      "Acetyl Hexapeptide-8",
+      "Acetyl Hexapeptide-3",
+      "Botox in a jar"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating"
+    ],
+    "description": "A neuropeptide that relaxes facial muscle contractions to soften expression lines.",
+    "benefits": [
+      "Softens expression lines",
+      "Smooths forehead and crow's feet",
+      "Non-invasive",
+      "Gentle"
+    ],
+    "skin_types": [
+      "mature",
+      "all",
+      "normal"
+    ],
+    "concerns": [
+      "Effects are temporary and subtle"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "3-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Matrixyl",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "copper-tripeptide-1",
+    "inci_name": "Copper Tripeptide-1",
+    "common_name": "Copper Peptide (GHK-Cu)",
+    "also_known_as": [
+      "GHK-Cu",
+      "Copper Peptide"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating",
+      "Antioxidant"
+    ],
+    "description": "A regenerative copper-bound peptide that supports collagen, healing and skin remodeling.",
+    "benefits": [
+      "Promotes collagen and elastin",
+      "Speeds healing",
+      "Improves firmness",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "mature",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "May deactivate vitamin C and direct acids if layered together"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": [
+      "Ascorbic Acid (Vitamin C)",
+      "Glycolic Acid",
+      "Retinol"
+    ]
+  },
+  {
+    "id": "matrixyl",
+    "inci_name": "Palmitoyl Pentapeptide-4",
+    "common_name": "Matrixyl",
+    "also_known_as": [
+      "Matrixyl",
+      "Pal-KTTKS"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating"
+    ],
+    "description": "A signal peptide that tells skin to produce more collagen for firmer, smoother texture.",
+    "benefits": [
+      "Boosts collagen",
+      "Reduces wrinkles",
+      "Improves firmness",
+      "Gentle anti-aging"
+    ],
+    "skin_types": [
+      "all",
+      "mature",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Needs consistent long-term use"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin C"
+    ],
+    "avoid_with": [
+      "Direct acids (low pH)"
+    ]
+  },
+  {
+    "id": "palmitoyl-tetrapeptide-7",
+    "inci_name": "Palmitoyl Tetrapeptide-7",
+    "common_name": "Palmitoyl Tetrapeptide-7",
+    "also_known_as": [
+      "Pal-GQPR"
+    ],
+    "category": [
+      "Anti-aging",
+      "Soothing",
+      "Cell-communicating"
+    ],
+    "description": "A soothing peptide that reduces inflammatory aging and supports firmer skin.",
+    "benefits": [
+      "Calms inflammation",
+      "Supports firmness",
+      "Reduces glycation damage",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "mature",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Gradual results"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-4%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Palmitoyl Tripeptide-1",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "peptide-complex-tripeptide-1",
+    "inci_name": "Palmitoyl Tripeptide-1",
+    "common_name": "Palmitoyl Tripeptide-1",
+    "also_known_as": [
+      "Pal-GHK"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating"
+    ],
+    "description": "A collagen-signaling peptide often paired with Tetrapeptide-7 to firm and rebuild skin.",
+    "benefits": [
+      "Stimulates collagen",
+      "Firms skin",
+      "Reduces wrinkles",
+      "Improves elasticity"
+    ],
+    "skin_types": [
+      "mature",
+      "all",
+      "normal"
+    ],
+    "concerns": [
+      "Needs consistent use over months"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-4%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Palmitoyl Tetrapeptide-7",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "retinaldehyde",
+    "inci_name": "Retinal",
+    "common_name": "Retinaldehyde",
+    "also_known_as": [
+      "Retinal",
+      "Vitamin A aldehyde"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-aging"
+    ],
+    "description": "A fast-acting retinoid one step closer to retinoic acid than retinol, with added antibacterial action.",
+    "benefits": [
+      "Faster results than retinol",
+      "Improves wrinkles and tone",
+      "Antibacterial for acne"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Still irritating to sensitive skin",
+      "Increases photosensitivity"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.1%",
+    "ph_range": "5.0-6.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "retinol",
+    "inci_name": "Retinol",
+    "common_name": "Retinol",
+    "also_known_as": [
+      "Vitamin A",
+      "ROL"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-aging",
+      "Antioxidant"
+    ],
+    "description": "A gold-standard vitamin A derivative that accelerates cell turnover and boosts collagen.",
+    "benefits": [
+      "Reduces fine lines and wrinkles",
+      "Smooths texture",
+      "Fades hyperpigmentation",
+      "Unclogs pores"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Can cause dryness, peeling and irritation during retinization",
+      "Increases sun sensitivity"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": "5.0-6.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Peptides",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "retinyl-palmitate",
+    "inci_name": "Retinyl Palmitate",
+    "common_name": "Retinyl Palmitate",
+    "also_known_as": [
+      "Vitamin A Palmitate"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Antioxidant",
+      "Anti-aging"
+    ],
+    "description": "The gentlest, ester form of vitamin A, suited to beginners and sensitive skin.",
+    "benefits": [
+      "Mild anti-aging",
+      "Antioxidant support",
+      "Good retinoid starter",
+      "Low irritation"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Weakest retinoid; slow results",
+      "Still best avoided in pregnancy"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": "5.0-6.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "retinyl-retinoate",
+    "inci_name": "Retinyl Retinoate",
+    "common_name": "Retinyl Retinoate",
+    "also_known_as": [
+      "Hybrid retinoid"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-aging"
+    ],
+    "description": "A hybrid, more stable and potent retinoid offering strong anti-aging with relatively less irritation.",
+    "benefits": [
+      "Potent anti-aging",
+      "More stable than retinol",
+      "Less irritation than retinoic acid",
+      "Boosts collagen"
+    ],
+    "skin_types": [
+      "mature",
+      "normal",
+      "combination"
+    ],
+    "concerns": [
+      "Still a retinoid; avoid in pregnancy and use SPF"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "medium",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.2%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  }
+]

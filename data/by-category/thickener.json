@@ -1,0 +1,250 @@
+[
+  {
+    "id": "beeswax",
+    "inci_name": "Cera Alba",
+    "common_name": "Beeswax",
+    "also_known_as": [
+      "Cera Alba",
+      "Cera Flava"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient",
+      "Thickener"
+    ],
+    "description": "A natural wax that forms a protective, breathable layer and thickens balms.",
+    "benefits": [
+      "Seals in moisture",
+      "Thickens balms",
+      "Soothing",
+      "Protective film"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns": [
+      "Not vegan"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "carbomer",
+    "inci_name": "Carbomer",
+    "common_name": "Carbomer",
+    "also_known_as": [
+      "Polyacrylic acid",
+      "Carbopol"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A synthetic polymer that creates clear, elegant gels and stabilizes emulsions.",
+    "benefits": [
+      "Creates clear gels",
+      "Stabilizes formulas",
+      "Adjustable thickness",
+      "Smooth feel"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Needs neutralizing base to thicken"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Sodium Hydroxide",
+      "Triethanolamine"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetearyl-alcohol",
+    "inci_name": "Cetearyl Alcohol",
+    "common_name": "Cetearyl Alcohol",
+    "also_known_as": [
+      "Cetostearyl alcohol",
+      "Fatty alcohol blend"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A blend of cetyl and stearyl fatty alcohols that conditions skin and gives creams body.",
+    "benefits": [
+      "Softens and conditions",
+      "Stabilizes emulsions",
+      "Creamy texture",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare contact sensitivity"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-7%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetyl-alcohol",
+    "inci_name": "Cetyl Alcohol",
+    "common_name": "Cetyl Alcohol",
+    "also_known_as": [
+      "Fatty alcohol",
+      "Palmityl alcohol"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A waxy fatty alcohol (not a drying alcohol) that softens skin and stabilizes creams.",
+    "benefits": [
+      "Softens skin",
+      "Thickens and stabilizes formulas",
+      "Emollient",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare sensitivity; not the same as drying SD alcohol"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hydroxyethylcellulose",
+    "inci_name": "Hydroxyethylcellulose",
+    "common_name": "Hydroxyethylcellulose",
+    "also_known_as": [
+      "HEC",
+      "Cellulose gum"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A plant-cellulose thickener that builds smooth, non-tacky gels for serums and cleansers.",
+    "benefits": [
+      "Smooth gel texture",
+      "Stabilizes",
+      "Non-irritating",
+      "Plant-derived"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Functional ingredient; no active benefit"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.2-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Xanthan Gum",
+      "Carbomer"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "xanthan-gum",
+    "inci_name": "Xanthan Gum",
+    "common_name": "Xanthan Gum",
+    "also_known_as": [
+      "Polysaccharide gum"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A fermentation-derived natural gum that thickens and stabilizes water-based formulas.",
+    "benefits": [
+      "Thickens gels and serums",
+      "Stabilizes emulsions",
+      "Natural-derived",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Can feel tacky if overused"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Carbomer",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  }
+]

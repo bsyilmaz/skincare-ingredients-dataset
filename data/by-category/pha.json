@@ -1,0 +1,93 @@
+[
+  {
+    "id": "gluconolactone",
+    "inci_name": "Gluconolactone",
+    "common_name": "Gluconolactone (PHA)",
+    "also_known_as": [
+      "PHA",
+      "Polyhydroxy Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "PHA",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A polyhydroxy acid that exfoliates very gently while attracting moisture and offering antioxidant action.",
+    "benefits": [
+      "Ultra-gentle exfoliation",
+      "Hydrates",
+      "Suits sensitive and rosacea-prone skin",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Slower results than AHAs"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "4-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lactobionic-acid",
+    "inci_name": "Lactobionic Acid",
+    "common_name": "Lactobionic Acid (PHA)",
+    "also_known_as": [
+      "PHA",
+      "Polyhydroxy Bionic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "PHA",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A next-generation PHA that gently exfoliates, hydrates strongly and protects against free radicals.",
+    "benefits": [
+      "Gentle resurfacing",
+      "Strong humectant",
+      "Antioxidant defense",
+      "Strengthens barrier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "mature",
+      "all"
+    ],
+    "concerns": [
+      "Premium ingredient; slower than AHAs"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "4-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  }
+]

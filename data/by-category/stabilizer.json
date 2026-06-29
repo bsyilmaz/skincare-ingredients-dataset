@@ -1,0 +1,160 @@
+[
+  {
+    "id": "carbomer",
+    "inci_name": "Carbomer",
+    "common_name": "Carbomer",
+    "also_known_as": [
+      "Polyacrylic acid",
+      "Carbopol"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A synthetic polymer that creates clear, elegant gels and stabilizes emulsions.",
+    "benefits": [
+      "Creates clear gels",
+      "Stabilizes formulas",
+      "Adjustable thickness",
+      "Smooth feel"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Needs neutralizing base to thicken"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Sodium Hydroxide",
+      "Triethanolamine"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "disodium-edta",
+    "inci_name": "Disodium EDTA",
+    "common_name": "Disodium EDTA",
+    "also_known_as": [
+      "EDTA",
+      "Chelating agent"
+    ],
+    "category": [
+      "Chelator",
+      "Stabilizer"
+    ],
+    "description": "A chelating agent that binds metal ions to keep formulas stable and preservatives effective.",
+    "benefits": [
+      "Stabilizes formulas",
+      "Boosts preservatives",
+      "Prevents discoloration",
+      "Improves foaming"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Used at tiny amounts; well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Most preservative systems"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hydroxyethylcellulose",
+    "inci_name": "Hydroxyethylcellulose",
+    "common_name": "Hydroxyethylcellulose",
+    "also_known_as": [
+      "HEC",
+      "Cellulose gum"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A plant-cellulose thickener that builds smooth, non-tacky gels for serums and cleansers.",
+    "benefits": [
+      "Smooth gel texture",
+      "Stabilizes",
+      "Non-irritating",
+      "Plant-derived"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Functional ingredient; no active benefit"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.2-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Xanthan Gum",
+      "Carbomer"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "xanthan-gum",
+    "inci_name": "Xanthan Gum",
+    "common_name": "Xanthan Gum",
+    "also_known_as": [
+      "Polysaccharide gum"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A fermentation-derived natural gum that thickens and stabilizes water-based formulas.",
+    "benefits": [
+      "Thickens gels and serums",
+      "Stabilizes emulsions",
+      "Natural-derived",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Can feel tacky if overused"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Carbomer",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  }
+]

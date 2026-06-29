@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caprylyl-glycol",
+    "inci_name": "Caprylyl Glycol",
+    "common_name": "Caprylyl Glycol",
+    "also_known_as": [
+      "1,2-Octanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Preservative",
+      "Emollient"
+    ],
+    "description": "A multifunctional humectant that conditions skin and boosts preservative efficacy.",
+    "benefits": [
+      "Hydrates",
+      "Boosts preservation",
+      "Softens skin",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.3-1.5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ethylhexylglycerin",
+    "inci_name": "Ethylhexylglycerin",
+    "common_name": "Ethylhexylglycerin",
+    "also_known_as": [
+      "EHG"
+    ],
+    "category": [
+      "Preservative",
+      "Humectant",
+      "Deodorant"
+    ],
+    "description": "A gentle preservative-booster and skin conditioner that enhances phenoxyethanol.",
+    "benefits": [
+      "Boosts preservative systems",
+      "Conditions skin",
+      "Mild deodorizing",
+      "Reduces preservative load"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.3-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Phenoxyethanol",
+      "Caprylyl Glycol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "phenoxyethanol",
+    "inci_name": "Phenoxyethanol",
+    "common_name": "Phenoxyethanol",
+    "also_known_as": [
+      "PE"
+    ],
+    "category": [
+      "Preservative"
+    ],
+    "description": "A widely used, broad-spectrum preservative that keeps formulas free of bacteria and mold.",
+    "benefits": [
+      "Prevents microbial growth",
+      "Stable across pH",
+      "Paraben alternative",
+      "Effective at low %"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Capped at 1% in the EU",
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ethylhexylglycerin",
+      "Caprylyl Glycol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "potassium-sorbate",
+    "inci_name": "Potassium Sorbate",
+    "common_name": "Potassium Sorbate",
+    "also_known_as": [
+      "E202"
+    ],
+    "category": [
+      "Preservative"
+    ],
+    "description": "A gentle food-grade preservative effective against yeast and mold at low pH.",
+    "benefits": [
+      "Mild preservative",
+      "Effective vs yeast and mold",
+      "Paraben-free option"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Needs acidic pH to work; weak vs bacteria alone"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.5%",
+    "ph_range": "below 6.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Sodium Benzoate",
+      "Phenoxyethanol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-benzoate",
+    "inci_name": "Sodium Benzoate",
+    "common_name": "Sodium Benzoate",
+    "also_known_as": [
+      "E211"
+    ],
+    "category": [
+      "Preservative"
+    ],
+    "description": "A mild, food-grade preservative effective against bacteria in acidic formulas.",
+    "benefits": [
+      "Gentle preservation",
+      "Effective vs bacteria at low pH",
+      "Often paired with potassium sorbate"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Needs acidic pH; weak alone"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.5%",
+    "ph_range": "below 5.5",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Potassium Sorbate",
+      "Phenoxyethanol"
+    ],
+    "avoid_with": []
+  }
+]

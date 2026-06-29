@@ -1,0 +1,196 @@
+[
+  {
+    "id": "citric-acid",
+    "inci_name": "Citric Acid",
+    "common_name": "Citric Acid",
+    "also_known_as": [
+      "AHA"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "pH adjuster",
+      "Antioxidant"
+    ],
+    "description": "A citrus-derived AHA used both as a mild exfoliant and a common pH adjuster.",
+    "benefits": [
+      "Mild exfoliation",
+      "Brightens",
+      "Adjusts product pH",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate at high concentrations",
+      "Photosensitizing as an exfoliant"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": [
+      "Retinol"
+    ]
+  },
+  {
+    "id": "glycolic-acid",
+    "inci_name": "Glycolic Acid",
+    "common_name": "Glycolic Acid",
+    "also_known_as": [
+      "AHA",
+      "Hydroxyacetic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "The smallest alpha-hydroxy acid, derived from sugar cane, that exfoliates the skin surface.",
+    "benefits": [
+      "Smooths rough texture",
+      "Brightens dull skin",
+      "Fades dark spots",
+      "Boosts radiance"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature"
+    ],
+    "concerns": [
+      "Increases sun sensitivity",
+      "Stings sensitive or compromised skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "lactic-acid",
+    "inci_name": "Lactic Acid",
+    "common_name": "Lactic Acid",
+    "also_known_as": [
+      "AHA",
+      "Milk acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Humectant"
+    ],
+    "description": "A gentle, hydrating AHA with a larger molecule that exfoliates while drawing in moisture.",
+    "benefits": [
+      "Gentle exfoliation",
+      "Hydrates as it resurfaces",
+      "Brightens",
+      "Improves fine lines"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Photosensitizing",
+      "Can sting on application"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "mandelic-acid",
+    "inci_name": "Mandelic Acid",
+    "common_name": "Mandelic Acid",
+    "also_known_as": [
+      "AHA",
+      "Amygdalic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "A large-molecule AHA from bitter almonds that exfoliates slowly, ideal for sensitive and darker skin.",
+    "benefits": [
+      "Very gentle exfoliation",
+      "Evens tone",
+      "Helps acne",
+      "Lower irritation risk"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "oily"
+    ],
+    "concerns": [
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  }
+]

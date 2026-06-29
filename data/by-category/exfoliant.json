@@ -1,0 +1,468 @@
+[
+  {
+    "id": "azelaic-acid",
+    "inci_name": "Azelaic Acid",
+    "common_name": "Azelaic Acid",
+    "also_known_as": [
+      "AzA",
+      "Nonanedioic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "Skin-brightening",
+      "Anti-acne",
+      "Soothing"
+    ],
+    "description": "A multitasking dicarboxylic acid from grains that treats acne, rosacea and pigmentation.",
+    "benefits": [
+      "Calms redness and rosacea",
+      "Fades post-acne marks",
+      "Unclogs pores",
+      "Gentle brightening"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "all"
+    ],
+    "concerns": [
+      "Temporary tingling or dryness when starting"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "10-20%",
+    "ph_range": "4.0-5.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "citric-acid",
+    "inci_name": "Citric Acid",
+    "common_name": "Citric Acid",
+    "also_known_as": [
+      "AHA"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "pH adjuster",
+      "Antioxidant"
+    ],
+    "description": "A citrus-derived AHA used both as a mild exfoliant and a common pH adjuster.",
+    "benefits": [
+      "Mild exfoliation",
+      "Brightens",
+      "Adjusts product pH",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate at high concentrations",
+      "Photosensitizing as an exfoliant"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": [
+      "Retinol"
+    ]
+  },
+  {
+    "id": "gluconolactone",
+    "inci_name": "Gluconolactone",
+    "common_name": "Gluconolactone (PHA)",
+    "also_known_as": [
+      "PHA",
+      "Polyhydroxy Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "PHA",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A polyhydroxy acid that exfoliates very gently while attracting moisture and offering antioxidant action.",
+    "benefits": [
+      "Ultra-gentle exfoliation",
+      "Hydrates",
+      "Suits sensitive and rosacea-prone skin",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Slower results than AHAs"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "4-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glycolic-acid",
+    "inci_name": "Glycolic Acid",
+    "common_name": "Glycolic Acid",
+    "also_known_as": [
+      "AHA",
+      "Hydroxyacetic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "The smallest alpha-hydroxy acid, derived from sugar cane, that exfoliates the skin surface.",
+    "benefits": [
+      "Smooths rough texture",
+      "Brightens dull skin",
+      "Fades dark spots",
+      "Boosts radiance"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature"
+    ],
+    "concerns": [
+      "Increases sun sensitivity",
+      "Stings sensitive or compromised skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "lactic-acid",
+    "inci_name": "Lactic Acid",
+    "common_name": "Lactic Acid",
+    "also_known_as": [
+      "AHA",
+      "Milk acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Humectant"
+    ],
+    "description": "A gentle, hydrating AHA with a larger molecule that exfoliates while drawing in moisture.",
+    "benefits": [
+      "Gentle exfoliation",
+      "Hydrates as it resurfaces",
+      "Brightens",
+      "Improves fine lines"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Photosensitizing",
+      "Can sting on application"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "lactobionic-acid",
+    "inci_name": "Lactobionic Acid",
+    "common_name": "Lactobionic Acid (PHA)",
+    "also_known_as": [
+      "PHA",
+      "Polyhydroxy Bionic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "PHA",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A next-generation PHA that gently exfoliates, hydrates strongly and protects against free radicals.",
+    "benefits": [
+      "Gentle resurfacing",
+      "Strong humectant",
+      "Antioxidant defense",
+      "Strengthens barrier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "mature",
+      "all"
+    ],
+    "concerns": [
+      "Premium ingredient; slower than AHAs"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "4-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mandelic-acid",
+    "inci_name": "Mandelic Acid",
+    "common_name": "Mandelic Acid",
+    "also_known_as": [
+      "AHA",
+      "Amygdalic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "A large-molecule AHA from bitter almonds that exfoliates slowly, ideal for sensitive and darker skin.",
+    "benefits": [
+      "Very gentle exfoliation",
+      "Evens tone",
+      "Helps acne",
+      "Lower irritation risk"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "oily"
+    ],
+    "concerns": [
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "salicylic-acid",
+    "inci_name": "Salicylic Acid",
+    "common_name": "Salicylic Acid",
+    "also_known_as": [
+      "BHA",
+      "Beta Hydroxy Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "BHA",
+      "Anti-acne"
+    ],
+    "description": "An oil-soluble beta-hydroxy acid that penetrates pores to dissolve sebum and dead skin.",
+    "benefits": [
+      "Unclogs and shrinks pores",
+      "Reduces blackheads and breakouts",
+      "Controls oil",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Can over-dry skin",
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-2%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Zinc"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Glycolic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "sulfur",
+    "inci_name": "Sulfur",
+    "common_name": "Sulfur",
+    "also_known_as": [
+      "Sulphur"
+    ],
+    "category": [
+      "Anti-acne",
+      "Exfoliant"
+    ],
+    "description": "A traditional keratolytic that dries out blemishes and absorbs excess oil.",
+    "benefits": [
+      "Dries blemishes",
+      "Absorbs oil",
+      "Mildly exfoliates",
+      "Helps rosacea and seborrhea"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Drying",
+      "Distinctive smell"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "3-10%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "urea",
+    "inci_name": "Urea",
+    "common_name": "Urea",
+    "also_known_as": [
+      "Carbamide"
+    ],
+    "category": [
+      "Humectant",
+      "Exfoliant",
+      "Skin-replenishing"
+    ],
+    "description": "A dual-action ingredient that hydrates at low doses and gently exfoliates at higher doses.",
+    "benefits": [
+      "Hydrates dry, rough skin",
+      "Softens calluses at high %",
+      "Part of skin's NMF",
+      "Improves penetration"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Can sting compromised skin at high concentrations"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10% (up to 40% for feet)",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramides",
+      "Glycerin",
+      "Lactic Acid"
+    ],
+    "avoid_with": []
+  }
+]

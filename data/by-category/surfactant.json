@@ -1,0 +1,289 @@
+[
+  {
+    "id": "cocamidopropyl-betaine",
+    "inci_name": "Cocamidopropyl Betaine",
+    "common_name": "Cocamidopropyl Betaine",
+    "also_known_as": [
+      "CAPB",
+      "Coco betaine"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A mild, coconut-derived amphoteric surfactant that cleanses gently and boosts foam.",
+    "benefits": [
+      "Gentle cleansing",
+      "Rich foam",
+      "Reduces harshness of other surfactants",
+      "Thickens cleansers"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Possible sensitivity from impurities in some grades"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Coco-Glucoside",
+      "Sodium Cocoyl Isethionate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "coco-glucoside",
+    "inci_name": "Coco-Glucoside",
+    "common_name": "Coco-Glucoside",
+    "also_known_as": [
+      "Alkyl polyglucoside",
+      "APG"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "An ultra-mild, sugar-and-coconut surfactant ideal for sensitive and baby skin.",
+    "benefits": [
+      "Very gentle cleansing",
+      "Biodegradable",
+      "Soft foam",
+      "Non-stripping"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Lower foam than sulfates"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "2-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Decyl Glucoside"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "decyl-glucoside",
+    "inci_name": "Decyl Glucoside",
+    "common_name": "Decyl Glucoside",
+    "also_known_as": [
+      "APG",
+      "Sugar surfactant"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A mild, plant-based non-ionic surfactant great for sensitive-skin and baby cleansers.",
+    "benefits": [
+      "Very gentle cleansing",
+      "Biodegradable",
+      "Good foam for a sugar surfactant",
+      "Non-stripping"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Higher pH; pair with acids to balance"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "2-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Coco-Glucoside",
+      "Cocamidopropyl Betaine"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-cocoyl-glycinate",
+    "inci_name": "Sodium Cocoyl Glycinate",
+    "common_name": "Sodium Cocoyl Glycinate",
+    "also_known_as": [
+      "Amino acid surfactant"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "An amino-acid-based surfactant giving a soft, fluffy lather with a gentle, skin-friendly pH.",
+    "benefits": [
+      "Very mild cleansing",
+      "Soft lather",
+      "Skin-friendly pH",
+      "Non-stripping"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Premium vs sulfates"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-cocoyl-isethionate",
+    "inci_name": "Sodium Cocoyl Isethionate",
+    "common_name": "Sodium Cocoyl Isethionate",
+    "also_known_as": [
+      "SCI",
+      "Baby foam"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A mild, coconut-derived surfactant prized for creamy lather in syndet bars and cleansers.",
+    "benefits": [
+      "Gentle yet effective",
+      "Creamy lather",
+      "Non-stripping",
+      "Great for solid cleansers"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "10-50%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Coco-Glucoside"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-laureth-sulfate",
+    "inci_name": "Sodium Laureth Sulfate",
+    "common_name": "Sodium Laureth Sulfate (SLES)",
+    "also_known_as": [
+      "SLES"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A common foaming cleanser, milder than SLS but still potentially stripping for dry skin.",
+    "benefits": [
+      "Strong foaming",
+      "Effective cleansing",
+      "Inexpensive"
+    ],
+    "skin_types": [
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Can be drying or stripping for dry/sensitive skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "5-25%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-lauryl-sulfate",
+    "inci_name": "Sodium Lauryl Sulfate",
+    "common_name": "Sodium Lauryl Sulfate (SLS)",
+    "also_known_as": [
+      "SLS"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A strong, high-foaming anionic surfactant that cleanses powerfully but can strip and irritate skin.",
+    "benefits": [
+      "Powerful cleansing",
+      "Abundant foam",
+      "Inexpensive"
+    ],
+    "skin_types": [
+      "oily"
+    ],
+    "concerns": [
+      "Harsh and stripping",
+      "Common irritant for sensitive/dry skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  }
+]

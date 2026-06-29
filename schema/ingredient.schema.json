@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/bsyilmaz/skincare-ingredients-dataset/schema/ingredient.schema.json",
+  "title": "Skincare Ingredient",
+  "description": "A single curated skincare ingredient profile.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "inci_name", "common_name", "category", "description",
+    "benefits", "skin_types", "comedogenic_rating", "irritancy",
+    "pregnancy_safe", "vegan", "origin", "time_of_use", "evidence_level"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique kebab-case slug."
+    },
+    "inci_name": { "type": "string", "description": "Official INCI label name." },
+    "common_name": { "type": "string" },
+    "also_known_as": { "type": "array", "items": { "type": "string" } },
+    "category": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "description": { "type": "string", "minLength": 10 },
+    "benefits": { "type": "array", "items": { "type": "string" } },
+    "skin_types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["all", "dry", "oily", "combination", "sensitive", "acne-prone", "mature", "normal"]
+      }
+    },
+    "concerns": { "type": "array", "items": { "type": "string" } },
+    "comedogenic_rating": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 5,
+      "description": "0 = non-comedogenic, 5 = highly pore-clogging. null if not applicable."
+    },
+    "irritancy": { "type": "string", "enum": ["low", "medium", "high"] },
+    "pregnancy_safe": { "type": "string", "enum": ["safe", "caution", "avoid"] },
+    "vegan": { "type": "string", "enum": ["yes", "no", "varies"] },
+    "origin": { "type": "string", "enum": ["natural", "synthetic", "both"] },
+    "typical_concentration": { "type": "string" },
+    "ph_range": { "type": ["string", "null"] },
+    "time_of_use": { "type": "string", "enum": ["AM", "PM", "AM/PM"] },
+    "evidence_level": { "type": "string", "enum": ["strong", "moderate", "limited"] },
+    "pairs_well_with": { "type": "array", "items": { "type": "string" } },
+    "avoid_with": { "type": "array", "items": { "type": "string" } }
+  }
+}

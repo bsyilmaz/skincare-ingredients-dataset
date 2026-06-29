@@ -1,0 +1,41 @@
+[
+  {
+    "id": "disodium-edta",
+    "inci_name": "Disodium EDTA",
+    "common_name": "Disodium EDTA",
+    "also_known_as": [
+      "EDTA",
+      "Chelating agent"
+    ],
+    "category": [
+      "Chelator",
+      "Stabilizer"
+    ],
+    "description": "A chelating agent that binds metal ions to keep formulas stable and preservatives effective.",
+    "benefits": [
+      "Stabilizes formulas",
+      "Boosts preservatives",
+      "Prevents discoloration",
+      "Improves foaming"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Used at tiny amounts; well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Most preservative systems"
+    ],
+    "avoid_with": []
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "citric-acid",
+    "inci_name": "Citric Acid",
+    "common_name": "Citric Acid",
+    "also_known_as": [
+      "AHA"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "pH adjuster",
+      "Antioxidant"
+    ],
+    "description": "A citrus-derived AHA used both as a mild exfoliant and a common pH adjuster.",
+    "benefits": [
+      "Mild exfoliation",
+      "Brightens",
+      "Adjusts product pH",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate at high concentrations",
+      "Photosensitizing as an exfoliant"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": [
+      "Retinol"
+    ]
+  },
+  {
+    "id": "sodium-hydroxide",
+    "inci_name": "Sodium Hydroxide",
+    "common_name": "Sodium Hydroxide",
+    "also_known_as": [
+      "Lye",
+      "NaOH",
+      "Caustic soda"
+    ],
+    "category": [
+      "pH adjuster"
+    ],
+    "description": "A strong base used in tiny amounts to neutralize and set a formula's final pH.",
+    "benefits": [
+      "Adjusts pH",
+      "Activates carbomer gels",
+      "Trace use only"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Caustic in raw form; safe at trace levels in finished products"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "trace (q.s.)",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Carbomer",
+      "Acids (to buffer)"
+    ],
+    "avoid_with": []
+  }
+]

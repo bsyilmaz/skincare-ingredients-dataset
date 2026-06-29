@@ -1,0 +1,10 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Mark generated files so they don't skew language stats or clutter diffs
+data/ingredients.json     linguist-generated=true
+data/ingredients.min.json linguist-generated=true
+data/ingredients.csv      linguist-generated=true
+data/stats.json           linguist-generated=true
+data/by-category/*        linguist-generated=true
+demo/index.html           linguist-generated=true

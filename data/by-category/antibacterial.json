@@ -1,0 +1,140 @@
+[
+  {
+    "id": "benzoyl-peroxide",
+    "inci_name": "Benzoyl Peroxide",
+    "common_name": "Benzoyl Peroxide",
+    "also_known_as": [
+      "BP",
+      "BPO"
+    ],
+    "category": [
+      "Anti-acne",
+      "Antibacterial"
+    ],
+    "description": "A powerful antibacterial that kills acne-causing bacteria and clears inflammatory breakouts.",
+    "benefits": [
+      "Kills acne bacteria",
+      "Clears inflammatory acne",
+      "Reduces whiteheads",
+      "Prevents resistance"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Drying and irritating",
+      "Bleaches fabrics",
+      "Deactivates if layered with vitamin C or retinol"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2.5-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Adapalene"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid"
+    ]
+  },
+  {
+    "id": "propolis-extract",
+    "inci_name": "Propolis Extract",
+    "common_name": "Propolis Extract",
+    "also_known_as": [
+      "Bee propolis",
+      "Bee glue"
+    ],
+    "category": [
+      "Soothing",
+      "Antibacterial",
+      "Antioxidant"
+    ],
+    "description": "A bee-derived resin with antibacterial and healing properties popular for glowy, calm skin.",
+    "benefits": [
+      "Antibacterial for acne",
+      "Soothes and heals",
+      "Antioxidant glow",
+      "Hydrates"
+    ],
+    "skin_types": [
+      "acne-prone",
+      "dry",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Not vegan",
+      "Avoid if allergic to bee products"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Centella Asiatica",
+      "Honey"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tea-tree-oil",
+    "inci_name": "Melaleuca Alternifolia Leaf Oil",
+    "common_name": "Tea Tree Oil",
+    "also_known_as": [
+      "Melaleuca Alternifolia",
+      "TTO"
+    ],
+    "category": [
+      "Anti-acne",
+      "Antibacterial",
+      "Soothing"
+    ],
+    "description": "An essential oil with antibacterial terpinen-4-ol that helps spot-treat blemishes.",
+    "benefits": [
+      "Antibacterial spot treatment",
+      "Reduces acne",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate or sensitize undiluted",
+      "Essential oil allergen"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  }
+]

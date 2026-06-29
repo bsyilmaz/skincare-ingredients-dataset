@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Skincare Ingredients Explorer</title>
+<style>
+  :root{
+    --bg:#ffffff; --text:#1f2328; --muted:#656d76; --border:#d8dee4; --soft:#f6f8fa;
+    --accent:#0969da;
+    --avoid:#cf222e; --caution:#9a6700; --great:#1a7f37; --good:#0969da; --essential:#8250df;
+  }
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--bg); color:var(--text); line-height:1.5;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:880px; margin:0 auto; padding:32px 20px 64px}
+  h1{font-size:1.6rem; font-weight:600; margin:0 0 4px}
+  .sub{color:var(--muted); margin:0 0 22px; font-size:.95rem}
+
+  .tabs{display:flex; gap:2px; border-bottom:1px solid var(--border); margin-bottom:20px}
+  .tab{background:none; border:none; padding:9px 14px; font-size:.9rem; color:var(--muted);
+    cursor:pointer; border-bottom:2px solid transparent; margin-bottom:-1px}
+  .tab:hover{color:var(--text)}
+  .tab.active{color:var(--text); border-bottom-color:var(--accent); font-weight:600}
+
+  .controls{display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px}
+  input,select{font:inherit; font-size:.9rem; padding:7px 10px; border:1px solid var(--border);
+    border-radius:6px; background:#fff; color:var(--text)}
+  input{flex:1; min-width:200px}
+  input:focus,select:focus{outline:none; border-color:var(--accent); box-shadow:0 0 0 3px rgba(9,105,218,.12)}
+
+  .count{color:var(--muted); font-size:.82rem; margin:0 2px 12px}
+  .list{display:flex; flex-direction:column; gap:10px}
+  .card{border:1px solid var(--border); border-radius:8px; padding:14px 16px}
+  .card:hover{background:var(--soft)}
+  .card-head{display:flex; justify-content:space-between; align-items:baseline; gap:12px}
+  .card h3{font-size:1.02rem; font-weight:600; margin:0}
+  .when{color:var(--muted); font-size:.78rem; white-space:nowrap}
+  .inci{color:var(--muted); font-size:.76rem; margin:2px 0 9px}
+  .desc{font-size:.9rem; margin:0 0 11px}
+  .tags{display:flex; flex-wrap:wrap; gap:6px; font-size:.74rem; align-items:center}
+  .tag{background:var(--soft); border:1px solid var(--border); border-radius:999px; padding:2px 9px; color:var(--muted)}
+  .badge{font-weight:600}
+  .b-safe{color:var(--great)} .b-caution{color:var(--caution)} .b-avoid{color:var(--avoid)}
+
+  .desk-row{display:flex; gap:10px; flex-wrap:wrap; margin-bottom:8px}
+  .desk-row select{flex:1; min-width:200px}
+  .verdict{border:1px solid var(--border); border-left:4px solid var(--border); border-radius:6px;
+    padding:14px 16px; margin-top:16px}
+  .verdict.empty{color:var(--muted); font-size:.9rem}
+  .verdict h4{margin:0 0 10px; font-size:.95rem; font-weight:600}
+  .rule{margin:12px 0}
+  .rule:first-of-type{margin-top:0}
+  .sev{font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.03em}
+  .reason{font-size:.9rem; margin:4px 0 4px}
+  .rec{font-size:.85rem; color:var(--muted); margin:0}
+  .v-avoid{border-left-color:var(--avoid)} .sev.s-avoid{color:var(--avoid)}
+  .v-caution{border-left-color:var(--caution)} .sev.s-caution{color:var(--caution)}
+  .v-great{border-left-color:var(--great)} .sev.s-great{color:var(--great)}
+  .v-good{border-left-color:var(--good)} .sev.s-good{color:var(--good)}
+  .v-essential{border-left-color:var(--essential)} .sev.s-essential{color:var(--essential)}
+
+  footer{margin-top:40px; padding-top:16px; border-top:1px solid var(--border);
+    color:var(--muted); font-size:.8rem}
+  footer a{color:var(--accent); text-decoration:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Skincare Ingredients Explorer</h1>
+  <p class="sub"><span id="total">0</span> ingredients &middot; search, filter, and check what you can mix.</p>
+
+  <div class="tabs">
+    <button class="tab active" data-view="explore">Explore</button>
+    <button class="tab" data-view="check">Mix checker</button>
+  </div>
+
+  <!-- EXPLORE -->
+  <section id="explore">
+    <div class="controls">
+      <input id="q" placeholder="Search: niacinamide, retinol, vitamin C…" />
+      <select id="skin"></select>
+      <select id="preg">
+        <option value="">Any pregnancy status</option>
+        <option value="safe">Pregnancy: safe</option>
+        <option value="caution">Pregnancy: caution</option>
+        <option value="avoid">Pregnancy: avoid</option>
+      </select>
+    </div>
+    <p class="count" id="count"></p>
+    <div class="list" id="grid"></div>
+  </section>
+
+  <!-- MIX CHECKER -->
+  <section id="check" style="display:none">
+    <div class="desk-row">
+      <select id="a"></select>
+      <select id="b"></select>
+    </div>
+    <div id="verdict" class="verdict empty">Pick two ingredients to see whether they can be layered.</div>
+  </section>
+
+  <footer>
+    Educational reference, not medical advice. Built from the open
+    <a href="https://github.com/bsyilmaz/skincare-ingredients-dataset">Skincare Ingredients Dataset</a> (MIT).
+  </footer>
+</div>
+
+<script id="data" type="application/json">__INGREDIENTS_JSON__</script>
+<script id="rules" type="application/json">__RULES_JSON__</script>
+<script>
+const ING = JSON.parse(document.getElementById('data').textContent);
+const RULES = JSON.parse(document.getElementById('rules').textContent);
+const pregWord = {safe:'Safe', caution:'Caution', avoid:'Avoid'};
+document.getElementById('total').textContent = ING.length;
+const ORDER = ING.slice().sort((a,b)=>a.common_name.localeCompare(b.common_name));
+
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  t.classList.add('active');
+  const v=t.dataset.view;
+  document.getElementById('explore').style.display = v==='explore'?'':'none';
+  document.getElementById('check').style.display   = v==='check'?'':'none';
+});
+
+const skinSel=document.getElementById('skin');
+const skins=[...new Set(ING.flatMap(i=>i.skin_types))].sort();
+skinSel.innerHTML='<option value="">All skin types</option>'+skins.map(s=>`<option>${s}</option>`).join('');
+
+function render(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  const sk=skinSel.value, pg=document.getElementById('preg').value;
+  const res=ORDER.filter(i=>{
+    const hay=(i.common_name+' '+i.inci_name+' '+(i.also_known_as||[]).join(' ')).toLowerCase();
+    return (!q||hay.includes(q)) && (!sk||i.skin_types.includes(sk)) && (!pg||i.pregnancy_safe===pg);
+  });
+  document.getElementById('count').textContent=`${res.length} of ${ING.length} ingredients`;
+  document.getElementById('grid').innerHTML = res.length ? res.map(i=>`
+    <div class="card">
+      <div class="card-head"><h3>${i.common_name}</h3><span class="when">${i.time_of_use}</span></div>
+      <div class="inci">${i.inci_name}</div>
+      <p class="desc">${i.description}</p>
+      <div class="tags">
+        ${i.category.slice(0,3).map(c=>`<span class="tag">${c}</span>`).join('')}
+        <span class="tag">Comedogenic ${i.comedogenic_rating}/5</span>
+        <span class="tag">Irritancy: ${i.irritancy}</span>
+        <span class="badge b-${i.pregnancy_safe}">Pregnancy: ${pregWord[i.pregnancy_safe]}</span>
+      </div>
+    </div>`).join('') : '<p class="count">No ingredients match.</p>';
+}
+['q','skin','preg'].forEach(id=>document.getElementById(id).addEventListener('input',render));
+render();
+
+const aSel=document.getElementById('a'), bSel=document.getElementById('b');
+const opts='<option value="">— choose ingredient —</option>'+
+  ORDER.map(i=>`<option value="${i.id}">${i.common_name}</option>`).join('');
+aSel.innerHTML=opts; bSel.innerHTML=opts;
+const groupsFor=id=>Object.entries(RULES.groups).filter(([,m])=>m.includes(id)).map(([g])=>g);
+
+function checkMix(){
+  const a=aSel.value, b=bSel.value, out=document.getElementById('verdict');
+  if(!a||!b){out.className='verdict empty';out.textContent='Pick two ingredients to see whether they can be layered.';return;}
+  if(a===b){out.className='verdict empty';out.textContent='Pick two different ingredients.';return;}
+  const ga=groupsFor(a), gb=groupsFor(b);
+  const found=RULES.rules.filter(r=>(ga.includes(r.a)&&gb.includes(r.b))||(gb.includes(r.a)&&ga.includes(r.b)));
+  const nameA=ING.find(i=>i.id===a).common_name, nameB=ING.find(i=>i.id===b).common_name;
+  if(!found.length){
+    out.className='verdict v-good';
+    out.innerHTML=`<h4>${nameA} + ${nameB}</h4>
+      <div class="rule"><div class="sev s-good">Likely fine</div>
+      <p class="reason">No specific conflict recorded. Generally safe to layer — introduce one new active at a time and patch test.</p></div>`;
+    return;
+  }
+  const worst=found.map(r=>r.severity).sort((x,y)=>rank(y)-rank(x))[0];
+  out.className='verdict v-'+worst;
+  out.innerHTML=`<h4>${nameA} + ${nameB}</h4>`+found.map(r=>`
+    <div class="rule">
+      <div class="sev s-${r.severity}">${r.severity}</div>
+      <p class="reason">${r.reason}</p>
+      <p class="rec">${r.recommendation}</p>
+    </div>`).join('');
+}
+function rank(s){return {great:0,good:1,essential:2,caution:3,avoid:4}[s] ?? 0;}
+aSel.onchange=checkMix; bSel.onchange=checkMix;
+</script>
+</body>
+</html>

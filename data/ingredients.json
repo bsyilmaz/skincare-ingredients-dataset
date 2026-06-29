@@ -1,0 +1,5540 @@
+[
+  {
+    "id": "adapalene",
+    "inci_name": "Adapalene",
+    "common_name": "Adapalene",
+    "also_known_as": [
+      "Differin"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-acne",
+      "Anti-aging"
+    ],
+    "description": "A stable, OTC third-generation retinoid that targets acne and refines texture with less irritation.",
+    "benefits": [
+      "Clears and prevents acne",
+      "Unclogs pores",
+      "Smooths texture",
+      "Photostable"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Initial purging and dryness",
+      "Avoid in pregnancy"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.3%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Benzoyl Peroxide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "allantoin",
+    "inci_name": "Allantoin",
+    "common_name": "Allantoin",
+    "also_known_as": [
+      "Comfrey extract derivative"
+    ],
+    "category": [
+      "Soothing",
+      "Skin-replenishing"
+    ],
+    "description": "A gentle, comfrey-derived soother that calms, smooths and promotes skin renewal.",
+    "benefits": [
+      "Soothes irritation",
+      "Promotes cell turnover",
+      "Softens skin",
+      "Non-irritating"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Extremely well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Panthenol",
+      "Niacinamide",
+      "Centella Asiatica"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "aloe-vera",
+    "inci_name": "Aloe Barbadensis Leaf Juice",
+    "common_name": "Aloe Vera",
+    "also_known_as": [
+      "Aloe",
+      "Aloe Barbadensis"
+    ],
+    "category": [
+      "Soothing",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A succulent-derived gel that hydrates, soothes and calms inflamed or sunburned skin.",
+    "benefits": [
+      "Soothes and cools",
+      "Lightweight hydration",
+      "Calms irritation and sunburn",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "oily",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Possible allergy in latex-sensitive individuals"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-50%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Centella Asiatica"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "alpha-arbutin",
+    "inci_name": "Alpha-Arbutin",
+    "common_name": "Alpha Arbutin",
+    "also_known_as": [
+      "Arbutin"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Antioxidant"
+    ],
+    "description": "A stable, gentle skin-brightener that inhibits melanin production for an even tone.",
+    "benefits": [
+      "Fades dark spots and hyperpigmentation",
+      "Evens skin tone",
+      "Gentler than hydroquinone"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Slow, gradual results"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-2%",
+    "ph_range": "4.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Vitamin C",
+      "Tranexamic Acid",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "argan-oil",
+    "inci_name": "Argania Spinosa Kernel Oil",
+    "common_name": "Argan Oil",
+    "also_known_as": [
+      "Argania Spinosa",
+      "Moroccan oil"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A vitamin-E-rich Moroccan oil that softens skin and tames frizz without heaviness.",
+    "benefits": [
+      "Softens and conditions",
+      "Rich in vitamin E",
+      "Antioxidant",
+      "Non-greasy"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Mildly comedogenic for some"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "argireline",
+    "inci_name": "Acetyl Hexapeptide-8",
+    "common_name": "Argireline",
+    "also_known_as": [
+      "Acetyl Hexapeptide-8",
+      "Acetyl Hexapeptide-3",
+      "Botox in a jar"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating"
+    ],
+    "description": "A neuropeptide that relaxes facial muscle contractions to soften expression lines.",
+    "benefits": [
+      "Softens expression lines",
+      "Smooths forehead and crow's feet",
+      "Non-invasive",
+      "Gentle"
+    ],
+    "skin_types": [
+      "mature",
+      "all",
+      "normal"
+    ],
+    "concerns": [
+      "Effects are temporary and subtle"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "3-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Matrixyl",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ascorbyl-glucoside",
+    "inci_name": "Ascorbyl Glucoside",
+    "common_name": "Ascorbyl Glucoside",
+    "also_known_as": [
+      "AA2G",
+      "Vitamin C derivative"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A stable, water-soluble vitamin C derivative that converts to ascorbic acid in the skin.",
+    "benefits": [
+      "Gentle brightening",
+      "Stable vitamin C",
+      "Antioxidant",
+      "Suits sensitive skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Milder and slower than pure LAA"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-5%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Vitamin E",
+      "Ferulic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "astaxanthin",
+    "inci_name": "Astaxanthin",
+    "common_name": "Astaxanthin",
+    "also_known_as": [
+      "Algae antioxidant",
+      "Haematococcus extract"
+    ],
+    "category": [
+      "Antioxidant",
+      "Anti-aging"
+    ],
+    "description": "A deep-red algae carotenoid considered one of the most powerful antioxidants in skincare.",
+    "benefits": [
+      "Very potent antioxidant",
+      "Defends against UV stress",
+      "Improves elasticity",
+      "Calms"
+    ],
+    "skin_types": [
+      "mature",
+      "all",
+      "normal"
+    ],
+    "concerns": [
+      "Can tint products red; oxidizes"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.01-0.1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Vitamin E",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "avobenzone",
+    "inci_name": "Butyl Methoxydibenzoylmethane",
+    "common_name": "Avobenzone",
+    "also_known_as": [
+      "Butyl Methoxydibenzoylmethane",
+      "Parsol 1789"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A chemical filter providing strong UVA protection, usually stabilized by octocrylene.",
+    "benefits": [
+      "Strong UVA protection",
+      "No white cast",
+      "Lightweight"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "concerns": [
+      "Photo-unstable alone; must be stabilized"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-3%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Octocrylene",
+      "Tinosorb S"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "azelaic-acid",
+    "inci_name": "Azelaic Acid",
+    "common_name": "Azelaic Acid",
+    "also_known_as": [
+      "AzA",
+      "Nonanedioic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "Skin-brightening",
+      "Anti-acne",
+      "Soothing"
+    ],
+    "description": "A multitasking dicarboxylic acid from grains that treats acne, rosacea and pigmentation.",
+    "benefits": [
+      "Calms redness and rosacea",
+      "Fades post-acne marks",
+      "Unclogs pores",
+      "Gentle brightening"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "all"
+    ],
+    "concerns": [
+      "Temporary tingling or dryness when starting"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "10-20%",
+    "ph_range": "4.0-5.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "bakuchiol",
+    "inci_name": "Bakuchiol",
+    "common_name": "Bakuchiol",
+    "also_known_as": [
+      "Babchi extract"
+    ],
+    "category": [
+      "Antioxidant",
+      "Anti-aging",
+      "Soothing"
+    ],
+    "description": "A plant-derived retinol alternative that offers similar anti-aging effects without the irritation.",
+    "benefits": [
+      "Smooths fine lines",
+      "Gentle alternative to retinol",
+      "Pregnancy-friendly anti-aging",
+      "Calms skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature",
+      "dry"
+    ],
+    "concerns": [
+      "Less clinical data than retinol"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Peptides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "beeswax",
+    "inci_name": "Cera Alba",
+    "common_name": "Beeswax",
+    "also_known_as": [
+      "Cera Alba",
+      "Cera Flava"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient",
+      "Thickener"
+    ],
+    "description": "A natural wax that forms a protective, breathable layer and thickens balms.",
+    "benefits": [
+      "Seals in moisture",
+      "Thickens balms",
+      "Soothing",
+      "Protective film"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns": [
+      "Not vegan"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "benzoyl-peroxide",
+    "inci_name": "Benzoyl Peroxide",
+    "common_name": "Benzoyl Peroxide",
+    "also_known_as": [
+      "BP",
+      "BPO"
+    ],
+    "category": [
+      "Anti-acne",
+      "Antibacterial"
+    ],
+    "description": "A powerful antibacterial that kills acne-causing bacteria and clears inflammatory breakouts.",
+    "benefits": [
+      "Kills acne bacteria",
+      "Clears inflammatory acne",
+      "Reduces whiteheads",
+      "Prevents resistance"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Drying and irritating",
+      "Bleaches fabrics",
+      "Deactivates if layered with vitamin C or retinol"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2.5-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Adapalene"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid"
+    ]
+  },
+  {
+    "id": "beta-glucan",
+    "inci_name": "Beta-Glucan",
+    "common_name": "Beta-Glucan",
+    "also_known_as": [
+      "1,3-Beta-Glucan",
+      "Oat beta glucan"
+    ],
+    "category": [
+      "Soothing",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "An oat- or yeast-derived polysaccharide that deeply soothes, hydrates and supports healing.",
+    "benefits": [
+      "Calms redness and irritation",
+      "Deep hydration",
+      "Supports wound healing",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all",
+      "mature"
+    ],
+    "concerns": [
+      "Often cited as gentler and more soothing than hyaluronic acid"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Centella Asiatica"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "betaine",
+    "inci_name": "Betaine",
+    "common_name": "Betaine",
+    "also_known_as": [
+      "Trimethylglycine"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing"
+    ],
+    "description": "A sugar-beet-derived humectant and osmolyte that hydrates and calms.",
+    "benefits": [
+      "Gentle hydration",
+      "Soothes irritation",
+      "Improves product texture"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "bisabolol",
+    "inci_name": "Bisabolol",
+    "common_name": "Bisabolol",
+    "also_known_as": [
+      "Alpha-Bisabolol",
+      "Chamomile derivative"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A chamomile-derived active that calms inflammation and boosts the penetration of other ingredients.",
+    "benefits": [
+      "Anti-inflammatory",
+      "Soothes redness",
+      "Antimicrobial",
+      "Enhances actives"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Centella Asiatica",
+      "Allantoin",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "butylene-glycol",
+    "inci_name": "Butylene Glycol",
+    "common_name": "Butylene Glycol",
+    "also_known_as": [
+      "BG",
+      "1,3-Butanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Solvent"
+    ],
+    "description": "A lightweight humectant and solvent that thins formulas and improves slip.",
+    "benefits": [
+      "Light hydration",
+      "Dissolves actives",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "caffeine",
+    "inci_name": "Caffeine",
+    "common_name": "Caffeine",
+    "also_known_as": [
+      "1,3,7-Trimethylxanthine"
+    ],
+    "category": [
+      "Antioxidant",
+      "Soothing"
+    ],
+    "description": "A vasoconstricting antioxidant popular in eye care for reducing puffiness and dark circles.",
+    "benefits": [
+      "Reduces puffiness",
+      "Depuffs under-eyes",
+      "Antioxidant",
+      "Temporarily firms"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Effects on dark circles are temporary"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-3%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin C"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "calendula-extract",
+    "inci_name": "Calendula Officinalis Extract",
+    "common_name": "Calendula Extract",
+    "also_known_as": [
+      "Marigold",
+      "Calendula Officinalis"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A gentle marigold extract traditionally used to calm, soothe and support skin healing.",
+    "benefits": [
+      "Soothes irritation",
+      "Supports healing",
+      "Antioxidant",
+      "Gentle for babies"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Possible allergy for Asteraceae-sensitive users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Calendula",
+      "Panthenol",
+      "Allantoin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "caprylic-capric-triglyceride",
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "common_name": "Caprylic/Capric Triglyceride",
+    "also_known_as": [
+      "Fractionated coconut oil",
+      "MCT"
+    ],
+    "category": [
+      "Emollient",
+      "Solvent"
+    ],
+    "description": "A light, silky emollient from coconut and glycerin that conditions skin and carries actives.",
+    "benefits": [
+      "Lightweight conditioning",
+      "Smooths skin",
+      "Disperses pigments and actives",
+      "Antioxidant carrier"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "concerns": [
+      "Mildly comedogenic for very acne-prone skin"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E",
+      "Tocopherol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "caprylyl-glycol",
+    "inci_name": "Caprylyl Glycol",
+    "common_name": "Caprylyl Glycol",
+    "also_known_as": [
+      "1,2-Octanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Preservative",
+      "Emollient"
+    ],
+    "description": "A multifunctional humectant that conditions skin and boosts preservative efficacy.",
+    "benefits": [
+      "Hydrates",
+      "Boosts preservation",
+      "Softens skin",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.3-1.5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "carbomer",
+    "inci_name": "Carbomer",
+    "common_name": "Carbomer",
+    "also_known_as": [
+      "Polyacrylic acid",
+      "Carbopol"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A synthetic polymer that creates clear, elegant gels and stabilizes emulsions.",
+    "benefits": [
+      "Creates clear gels",
+      "Stabilizes formulas",
+      "Adjustable thickness",
+      "Smooth feel"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Needs neutralizing base to thicken"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Sodium Hydroxide",
+      "Triethanolamine"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "centella-asiatica",
+    "inci_name": "Centella Asiatica Extract",
+    "common_name": "Centella Asiatica (Cica)",
+    "also_known_as": [
+      "Cica",
+      "Gotu Kola",
+      "Tiger grass",
+      "Madecassoside source"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant",
+      "Skin-replenishing"
+    ],
+    "description": "A calming herb rich in madecassoside that soothes, heals and strengthens the barrier.",
+    "benefits": [
+      "Calms redness and irritation",
+      "Speeds healing",
+      "Antioxidant",
+      "Strengthens barrier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Panthenol",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ceramide-np",
+    "inci_name": "Ceramide NP",
+    "common_name": "Ceramide NP",
+    "also_known_as": [
+      "Ceramide 3",
+      "Phytosphingosine ceramide"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Emollient"
+    ],
+    "description": "A key barrier lipid that replenishes the 'mortar' between skin cells to seal in moisture.",
+    "benefits": [
+      "Repairs and strengthens barrier",
+      "Reduces moisture loss",
+      "Calms sensitivity",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Works best blended with cholesterol and fatty acids"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Cholesterol",
+      "Fatty acids",
+      "Niacinamide",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetearyl-alcohol",
+    "inci_name": "Cetearyl Alcohol",
+    "common_name": "Cetearyl Alcohol",
+    "also_known_as": [
+      "Cetostearyl alcohol",
+      "Fatty alcohol blend"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A blend of cetyl and stearyl fatty alcohols that conditions skin and gives creams body.",
+    "benefits": [
+      "Softens and conditions",
+      "Stabilizes emulsions",
+      "Creamy texture",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare contact sensitivity"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-7%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetyl-alcohol",
+    "inci_name": "Cetyl Alcohol",
+    "common_name": "Cetyl Alcohol",
+    "also_known_as": [
+      "Fatty alcohol",
+      "Palmityl alcohol"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A waxy fatty alcohol (not a drying alcohol) that softens skin and stabilizes creams.",
+    "benefits": [
+      "Softens skin",
+      "Thickens and stabilizes formulas",
+      "Emollient",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare sensitivity; not the same as drying SD alcohol"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "chamomile-extract",
+    "inci_name": "Chamomilla Recutita Flower Extract",
+    "common_name": "Chamomile Extract",
+    "also_known_as": [
+      "Chamomilla Recutita",
+      "Matricaria"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A classic calming botanical with bisabolol and antioxidants that reduces redness and irritation.",
+    "benefits": [
+      "Calms redness",
+      "Soothes sensitive skin",
+      "Antioxidant",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Possible allergy for Asteraceae-sensitive users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Bisabolol",
+      "Allantoin",
+      "Panthenol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cholesterol",
+    "inci_name": "Cholesterol",
+    "common_name": "Cholesterol",
+    "also_known_as": [
+      "Skin lipid"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Emollient"
+    ],
+    "description": "A natural skin lipid that, alongside ceramides and fatty acids, restores the moisture barrier.",
+    "benefits": [
+      "Restores barrier lipids",
+      "Softens",
+      "Improves elasticity",
+      "Works with ceramides"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Best in 3:1:1 ratio with ceramides and fatty acids"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramide NP",
+      "Phytosphingosine",
+      "Fatty acids"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "citric-acid",
+    "inci_name": "Citric Acid",
+    "common_name": "Citric Acid",
+    "also_known_as": [
+      "AHA"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "pH adjuster",
+      "Antioxidant"
+    ],
+    "description": "A citrus-derived AHA used both as a mild exfoliant and a common pH adjuster.",
+    "benefits": [
+      "Mild exfoliation",
+      "Brightens",
+      "Adjusts product pH",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate at high concentrations",
+      "Photosensitizing as an exfoliant"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": [
+      "Retinol"
+    ]
+  },
+  {
+    "id": "cocamidopropyl-betaine",
+    "inci_name": "Cocamidopropyl Betaine",
+    "common_name": "Cocamidopropyl Betaine",
+    "also_known_as": [
+      "CAPB",
+      "Coco betaine"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A mild, coconut-derived amphoteric surfactant that cleanses gently and boosts foam.",
+    "benefits": [
+      "Gentle cleansing",
+      "Rich foam",
+      "Reduces harshness of other surfactants",
+      "Thickens cleansers"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Possible sensitivity from impurities in some grades"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Coco-Glucoside",
+      "Sodium Cocoyl Isethionate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "coco-glucoside",
+    "inci_name": "Coco-Glucoside",
+    "common_name": "Coco-Glucoside",
+    "also_known_as": [
+      "Alkyl polyglucoside",
+      "APG"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "An ultra-mild, sugar-and-coconut surfactant ideal for sensitive and baby skin.",
+    "benefits": [
+      "Very gentle cleansing",
+      "Biodegradable",
+      "Soft foam",
+      "Non-stripping"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Lower foam than sulfates"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "2-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Decyl Glucoside"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cocoa-butter",
+    "inci_name": "Theobroma Cacao Seed Butter",
+    "common_name": "Cocoa Butter",
+    "also_known_as": [
+      "Theobroma Cacao"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "description": "A rich, solid plant butter that deeply moisturizes and forms a protective layer on dry skin.",
+    "benefits": [
+      "Rich moisture",
+      "Protective barrier",
+      "Improves elasticity",
+      "Great for body"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Comedogenic; avoid on acne-prone face"
+    ],
+    "comedogenic_rating": 4,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "coconut-oil",
+    "inci_name": "Cocos Nucifera Oil",
+    "common_name": "Coconut Oil",
+    "also_known_as": [
+      "Cocos Nucifera"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "description": "A rich tropical oil with antibacterial lauric acid that deeply moisturizes but clogs acne-prone pores.",
+    "benefits": [
+      "Deep moisture",
+      "Antibacterial",
+      "Softens rough skin",
+      "Good for body and hair"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Highly comedogenic; avoid on face if acne-prone"
+    ],
+    "comedogenic_rating": 4,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "coenzyme-q10",
+    "inci_name": "Ubiquinone",
+    "common_name": "Coenzyme Q10",
+    "also_known_as": [
+      "CoQ10",
+      "Ubiquinone"
+    ],
+    "category": [
+      "Antioxidant",
+      "Anti-aging"
+    ],
+    "description": "A cellular antioxidant that supports energy production and defends against fine lines.",
+    "benefits": [
+      "Antioxidant defense",
+      "Energizes skin cells",
+      "Reduces fine lines",
+      "Protects collagen"
+    ],
+    "skin_types": [
+      "mature",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "Oxidizes; stabilize well"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "colloidal-oatmeal",
+    "inci_name": "Avena Sativa (Oat) Kernel Flour",
+    "common_name": "Colloidal Oatmeal",
+    "also_known_as": [
+      "Avena Sativa",
+      "Oat extract"
+    ],
+    "category": [
+      "Soothing",
+      "Humectant"
+    ],
+    "description": "An FDA-recognized skin protectant that relieves itch, irritation and eczema flares.",
+    "benefits": [
+      "Relieves itch and eczema",
+      "Soothes irritation",
+      "Hydrates",
+      "Strengthens barrier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Avoid if oat-allergic"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-3%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramides",
+      "Glycerin",
+      "Beta-Glucan"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "copper-tripeptide-1",
+    "inci_name": "Copper Tripeptide-1",
+    "common_name": "Copper Peptide (GHK-Cu)",
+    "also_known_as": [
+      "GHK-Cu",
+      "Copper Peptide"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating",
+      "Antioxidant"
+    ],
+    "description": "A regenerative copper-bound peptide that supports collagen, healing and skin remodeling.",
+    "benefits": [
+      "Promotes collagen and elastin",
+      "Speeds healing",
+      "Improves firmness",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "mature",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "May deactivate vitamin C and direct acids if layered together"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "avoid_with": [
+      "Ascorbic Acid (Vitamin C)",
+      "Glycolic Acid",
+      "Retinol"
+    ]
+  },
+  {
+    "id": "decyl-glucoside",
+    "inci_name": "Decyl Glucoside",
+    "common_name": "Decyl Glucoside",
+    "also_known_as": [
+      "APG",
+      "Sugar surfactant"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A mild, plant-based non-ionic surfactant great for sensitive-skin and baby cleansers.",
+    "benefits": [
+      "Very gentle cleansing",
+      "Biodegradable",
+      "Good foam for a sugar surfactant",
+      "Non-stripping"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Higher pH; pair with acids to balance"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "2-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Coco-Glucoside",
+      "Cocamidopropyl Betaine"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "denatured-alcohol",
+    "inci_name": "Alcohol Denat.",
+    "common_name": "Denatured Alcohol",
+    "also_known_as": [
+      "SD Alcohol",
+      "Ethanol",
+      "Alcohol Denat."
+    ],
+    "category": [
+      "Solvent",
+      "Astringent"
+    ],
+    "description": "A fast-drying 'simple' alcohol used for light textures and penetration, but drying in high amounts.",
+    "benefits": [
+      "Quick-dry, weightless finish",
+      "Boosts penetration",
+      "Helps SPF cosmetics feel light"
+    ],
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Drying and potentially barrier-damaging at high levels",
+      "Different from fatty alcohols"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-40%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [],
+    "avoid_with": []
+  },
+  {
+    "id": "dimethicone",
+    "inci_name": "Dimethicone",
+    "common_name": "Dimethicone",
+    "also_known_as": [
+      "Silicone",
+      "PDMS"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A breathable silicone that smooths skin, blurs pores and forms a protective film.",
+    "benefits": [
+      "Silky smooth finish",
+      "Blurs lines and pores",
+      "Protects barrier",
+      "Reduces water loss"
+    ],
+    "skin_types": [
+      "all",
+      "combination",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Can feel occlusive; wash off well to avoid buildup"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Most actives",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "disodium-edta",
+    "inci_name": "Disodium EDTA",
+    "common_name": "Disodium EDTA",
+    "also_known_as": [
+      "EDTA",
+      "Chelating agent"
+    ],
+    "category": [
+      "Chelator",
+      "Stabilizer"
+    ],
+    "description": "A chelating agent that binds metal ions to keep formulas stable and preservatives effective.",
+    "benefits": [
+      "Stabilizes formulas",
+      "Boosts preservatives",
+      "Prevents discoloration",
+      "Improves foaming"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Used at tiny amounts; well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Most preservative systems"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ectoin",
+    "inci_name": "Ectoin",
+    "common_name": "Ectoin",
+    "also_known_as": [
+      "Ectoine"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A microbe-derived extremolyte that shields skin cells from heat, UV and dehydration stress.",
+    "benefits": [
+      "Protects against environmental stress",
+      "Long-lasting hydration",
+      "Soothes",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all",
+      "mature"
+    ],
+    "concerns": [
+      "Premium ingredient"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramide NP"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ethylhexylglycerin",
+    "inci_name": "Ethylhexylglycerin",
+    "common_name": "Ethylhexylglycerin",
+    "also_known_as": [
+      "EHG"
+    ],
+    "category": [
+      "Preservative",
+      "Humectant",
+      "Deodorant"
+    ],
+    "description": "A gentle preservative-booster and skin conditioner that enhances phenoxyethanol.",
+    "benefits": [
+      "Boosts preservative systems",
+      "Conditions skin",
+      "Mild deodorizing",
+      "Reduces preservative load"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.3-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Phenoxyethanol",
+      "Caprylyl Glycol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ferulic-acid",
+    "inci_name": "Ferulic Acid",
+    "common_name": "Ferulic Acid",
+    "also_known_as": [
+      "Hydroxycinnamic acid"
+    ],
+    "category": [
+      "Antioxidant"
+    ],
+    "description": "A plant antioxidant that stabilizes vitamins C and E and amplifies their UV protection.",
+    "benefits": [
+      "Boosts vitamin C and E",
+      "Neutralizes free radicals",
+      "Enhances photoprotection",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "all",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Oxidizes; needs stable formula"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-1%",
+    "ph_range": "3.0-5.0",
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ascorbic Acid (Vitamin C)",
+      "Vitamin E",
+      "Resveratrol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "fragrance",
+    "inci_name": "Parfum",
+    "common_name": "Fragrance",
+    "also_known_as": [
+      "Parfum",
+      "Fragrance"
+    ],
+    "category": [
+      "Fragrance"
+    ],
+    "description": "Added scent (natural or synthetic) included for sensory appeal but a common irritant.",
+    "benefits": [
+      "Improves scent and experience",
+      "Masks raw-material odor"
+    ],
+    "skin_types": [
+      "normal"
+    ],
+    "concerns": [
+      "A leading cause of contact allergy and irritation",
+      "Avoid for sensitive/eczema-prone skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "caution",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [],
+    "avoid_with": []
+  },
+  {
+    "id": "gluconolactone",
+    "inci_name": "Gluconolactone",
+    "common_name": "Gluconolactone (PHA)",
+    "also_known_as": [
+      "PHA",
+      "Polyhydroxy Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "PHA",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A polyhydroxy acid that exfoliates very gently while attracting moisture and offering antioxidant action.",
+    "benefits": [
+      "Ultra-gentle exfoliation",
+      "Hydrates",
+      "Suits sensitive and rosacea-prone skin",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Slower results than AHAs"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "4-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glutathione",
+    "inci_name": "Glutathione",
+    "common_name": "Glutathione",
+    "also_known_as": [
+      "GSH",
+      "Master antioxidant"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A cellular antioxidant tripeptide used topically for brightening and free-radical defense.",
+    "benefits": [
+      "Antioxidant defense",
+      "Brightens",
+      "Supports even tone",
+      "Detoxifying claims"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Unstable; oral/IV claims are controversial"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glycerin",
+    "inci_name": "Glycerin",
+    "common_name": "Glycerin",
+    "also_known_as": [
+      "Glycerol",
+      "Glycerine"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "The most-used humectant in skincare; a gold-standard hydrator that mimics skin's natural moisture factor.",
+    "benefits": [
+      "Reliable hydration",
+      "Strengthens barrier",
+      "Non-irritating",
+      "Boosts other actives"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "oily"
+    ],
+    "concerns": [
+      "Sticky feel at very high concentrations"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "2-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides",
+      "Almost everything"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glyceryl-stearate",
+    "inci_name": "Glyceryl Stearate",
+    "common_name": "Glyceryl Stearate",
+    "also_known_as": [
+      "GMS",
+      "Glyceryl Monostearate"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier"
+    ],
+    "description": "A common plant-derived emulsifier that binds oil and water while softening skin.",
+    "benefits": [
+      "Stabilizes creams",
+      "Softens skin",
+      "Improves texture",
+      "Gentle"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Cetyl Alcohol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glycolic-acid",
+    "inci_name": "Glycolic Acid",
+    "common_name": "Glycolic Acid",
+    "also_known_as": [
+      "AHA",
+      "Hydroxyacetic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "The smallest alpha-hydroxy acid, derived from sugar cane, that exfoliates the skin surface.",
+    "benefits": [
+      "Smooths rough texture",
+      "Brightens dull skin",
+      "Fades dark spots",
+      "Boosts radiance"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature"
+    ],
+    "concerns": [
+      "Increases sun sensitivity",
+      "Stings sensitive or compromised skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "glycyrrhetinic-acid",
+    "inci_name": "Glycyrrhetinic Acid",
+    "common_name": "Glycyrrhetinic Acid",
+    "also_known_as": [
+      "Licorice active",
+      "Enoxolone"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A concentrated licorice-derived active that strongly soothes inflammation and itching.",
+    "benefits": [
+      "Anti-inflammatory",
+      "Soothes eczema and irritation",
+      "Antioxidant",
+      "Calms redness"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Licorice Root Extract",
+      "Centella Asiatica",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "grapeseed-oil",
+    "inci_name": "Vitis Vinifera Seed Oil",
+    "common_name": "Grapeseed Oil",
+    "also_known_as": [
+      "Vitis Vinifera"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A light, linoleic-acid-rich oil suited to oily and combination skin, with antioxidant polyphenols.",
+    "benefits": [
+      "Lightweight moisture",
+      "Antioxidant",
+      "Good for oily skin",
+      "Non-greasy"
+    ],
+    "skin_types": [
+      "oily",
+      "combination",
+      "normal",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Oxidizes relatively quickly"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "green-tea-extract",
+    "inci_name": "Camellia Sinensis Leaf Extract",
+    "common_name": "Green Tea Extract",
+    "also_known_as": [
+      "Camellia Sinensis",
+      "EGCG source",
+      "Green tea polyphenols"
+    ],
+    "category": [
+      "Antioxidant",
+      "Soothing"
+    ],
+    "description": "A polyphenol-rich extract whose EGCG content fights free radicals and calms oily, acne-prone skin.",
+    "benefits": [
+      "Potent antioxidant",
+      "Calms inflammation",
+      "Controls sebum",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Oxidizes; needs stable formulation"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "homosalate",
+    "inci_name": "Homosalate",
+    "common_name": "Homosalate",
+    "also_known_as": [
+      "HMS"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A common chemical UVB filter and solvent for other filters in many sunscreens.",
+    "benefits": [
+      "UVB protection",
+      "Solubilizes other filters",
+      "Lightweight feel"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "UVB only",
+      "EU concentration limits under review"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "4-15%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Octisalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "honey",
+    "inci_name": "Mel",
+    "common_name": "Honey",
+    "also_known_as": [
+      "Mel",
+      "Honey Extract"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A natural humectant with antibacterial and antioxidant properties used in masks and cleansers.",
+    "benefits": [
+      "Hydrates",
+      "Antibacterial for acne",
+      "Soothes",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "acne-prone",
+      "sensitive"
+    ],
+    "concerns": [
+      "Not vegan",
+      "Rare allergy for bee-product-sensitive users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Aloe Vera",
+      "Oat Extract",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hyaluronic-acid",
+    "inci_name": "Hyaluronic Acid",
+    "common_name": "Hyaluronic Acid",
+    "also_known_as": [
+      "HA",
+      "Hyaluronan"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "A powerhouse humectant that can hold up to 1000x its weight in water for plump hydration.",
+    "benefits": [
+      "Intense surface hydration",
+      "Plumps fine lines",
+      "Suits every skin type",
+      "Lightweight"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "oily"
+    ],
+    "concerns": [
+      "Can draw moisture out of skin in very dry climates if not sealed with moisturizer"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Retinol",
+      "Vitamin C",
+      "Ceramides",
+      "Peptides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hydrolyzed-collagen",
+    "inci_name": "Hydrolyzed Collagen",
+    "common_name": "Hydrolyzed Collagen",
+    "also_known_as": [
+      "Marine collagen",
+      "Collagen peptides"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "Small collagen fragments that act as humectants and film-formers for smoother, plumper skin.",
+    "benefits": [
+      "Surface hydration",
+      "Temporary plumping",
+      "Smooth film",
+      "Improves feel"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "Does not replace skin's own collagen; works on the surface"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Peptides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "hydroquinone",
+    "inci_name": "Hydroquinone",
+    "common_name": "Hydroquinone",
+    "also_known_as": [
+      "HQ"
+    ],
+    "category": [
+      "Skin-brightening"
+    ],
+    "description": "A potent, regulated skin-lightening agent that strongly inhibits melanin (prescription in many regions).",
+    "benefits": [
+      "Powerful fading of dark spots and melasma",
+      "Fast visible results"
+    ],
+    "skin_types": [
+      "normal",
+      "combination"
+    ],
+    "concerns": [
+      "Regulated/banned OTC in EU",
+      "Irritation and ochronosis risk with overuse",
+      "Use only under guidance"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-4%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Sunscreen"
+    ],
+    "avoid_with": [
+      "Benzoyl Peroxide",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "hydroxyethylcellulose",
+    "inci_name": "Hydroxyethylcellulose",
+    "common_name": "Hydroxyethylcellulose",
+    "also_known_as": [
+      "HEC",
+      "Cellulose gum"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A plant-cellulose thickener that builds smooth, non-tacky gels for serums and cleansers.",
+    "benefits": [
+      "Smooth gel texture",
+      "Stabilizes",
+      "Non-irritating",
+      "Plant-derived"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Functional ingredient; no active benefit"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.2-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Xanthan Gum",
+      "Carbomer"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "isopropyl-myristate",
+    "inci_name": "Isopropyl Myristate",
+    "common_name": "Isopropyl Myristate",
+    "also_known_as": [
+      "IPM"
+    ],
+    "category": [
+      "Emollient",
+      "Solvent"
+    ],
+    "description": "A fast-absorbing emollient that reduces greasiness but is notably pore-clogging.",
+    "benefits": [
+      "Light, non-greasy feel",
+      "Improves spreadability",
+      "Enhances absorption"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Highly comedogenic; avoid if acne-prone"
+    ],
+    "comedogenic_rating": 5,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Emollient blends"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "jojoba-oil",
+    "inci_name": "Simmondsia Chinensis Seed Oil",
+    "common_name": "Jojoba Oil",
+    "also_known_as": [
+      "Simmondsia Chinensis",
+      "Jojoba"
+    ],
+    "category": [
+      "Emollient",
+      "Skin-replenishing"
+    ],
+    "description": "A liquid wax ester closely resembling human sebum, balancing both oily and dry skin.",
+    "benefits": [
+      "Balances oil production",
+      "Non-greasy moisture",
+      "Soothes",
+      "Long shelf life"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination",
+      "acne-prone",
+      "dry"
+    ],
+    "concerns": [
+      "Generally non-comedogenic"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "kojic-acid",
+    "inci_name": "Kojic Acid",
+    "common_name": "Kojic Acid",
+    "also_known_as": [
+      "KA"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Antioxidant"
+    ],
+    "description": "A fungal-derived brightener that blocks melanin formation to fade discoloration.",
+    "benefits": [
+      "Fades age spots and melasma",
+      "Brightens",
+      "Antioxidant",
+      "Antimicrobial"
+    ],
+    "skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "concerns": [
+      "Can sensitize skin",
+      "Unstable; oxidizes and discolors"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-2%",
+    "ph_range": "4.0-5.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lactic-acid",
+    "inci_name": "Lactic Acid",
+    "common_name": "Lactic Acid",
+    "also_known_as": [
+      "AHA",
+      "Milk acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Humectant"
+    ],
+    "description": "A gentle, hydrating AHA with a larger molecule that exfoliates while drawing in moisture.",
+    "benefits": [
+      "Gentle exfoliation",
+      "Hydrates as it resurfaces",
+      "Brightens",
+      "Improves fine lines"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Photosensitizing",
+      "Can sting on application"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "lactic-acid-bacteria-ferment",
+    "inci_name": "Lactobacillus Ferment",
+    "common_name": "Lactobacillus Ferment (Probiotic)",
+    "also_known_as": [
+      "Probiotic ferment",
+      "Postbiotic"
+    ],
+    "category": [
+      "Soothing",
+      "Skin-replenishing",
+      "Antioxidant"
+    ],
+    "description": "A probiotic-derived ferment that supports the skin microbiome and strengthens the barrier.",
+    "benefits": [
+      "Balances skin microbiome",
+      "Strengthens barrier",
+      "Soothes",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Emerging evidence"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Beta-Glucan",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lactobionic-acid",
+    "inci_name": "Lactobionic Acid",
+    "common_name": "Lactobionic Acid (PHA)",
+    "also_known_as": [
+      "PHA",
+      "Polyhydroxy Bionic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "PHA",
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A next-generation PHA that gently exfoliates, hydrates strongly and protects against free radicals.",
+    "benefits": [
+      "Gentle resurfacing",
+      "Strong humectant",
+      "Antioxidant defense",
+      "Strengthens barrier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "mature",
+      "all"
+    ],
+    "concerns": [
+      "Premium ingredient; slower than AHAs"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "4-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lanolin",
+    "inci_name": "Lanolin",
+    "common_name": "Lanolin",
+    "also_known_as": [
+      "Wool wax",
+      "Wool grease"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A wax from sheep's wool that closely mimics human skin lipids for rich, breathable occlusion.",
+    "benefits": [
+      "Rich barrier protection",
+      "Mimics skin lipids",
+      "Heals chapped skin",
+      "Long-lasting"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Not vegan",
+      "Possible allergy for wool-sensitive users"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "licorice-root-extract",
+    "inci_name": "Glycyrrhiza Glabra Root Extract",
+    "common_name": "Licorice Root Extract",
+    "also_known_as": [
+      "Glycyrrhiza Glabra",
+      "Licorice",
+      "Glabridin source"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A botanical brightener whose glabridin fades dark spots while soothing inflammation.",
+    "benefits": [
+      "Brightens and evens tone",
+      "Calms redness",
+      "Antioxidant",
+      "Soothes"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "madecassoside",
+    "inci_name": "Madecassoside",
+    "common_name": "Madecassoside",
+    "also_known_as": [
+      "Centella active",
+      "Cica active"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant",
+      "Skin-replenishing"
+    ],
+    "description": "The most active soothing compound isolated from Centella asiatica, prized for calming and repair.",
+    "benefits": [
+      "Powerfully calms irritation",
+      "Supports barrier repair",
+      "Antioxidant",
+      "Reduces redness"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Centella Asiatica",
+      "Niacinamide",
+      "Panthenol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "magnesium-ascorbyl-phosphate",
+    "inci_name": "Magnesium Ascorbyl Phosphate",
+    "common_name": "Magnesium Ascorbyl Phosphate (MAP)",
+    "also_known_as": [
+      "MAP"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening",
+      "Humectant"
+    ],
+    "description": "A stable, hydrating vitamin C derivative well suited to dry and sensitive skin.",
+    "benefits": [
+      "Gentle brightening",
+      "Hydrating",
+      "Stable at higher pH",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Milder effect than pure LAA"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-5%",
+    "ph_range": "6.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mandarin-orange-extract",
+    "inci_name": "Citrus Nobilis Peel Extract",
+    "common_name": "Mandarin Orange Extract",
+    "also_known_as": [
+      "Citrus Nobilis"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A citrus extract rich in flavonoids and vitamin C that brightens and energizes dull skin.",
+    "benefits": [
+      "Brightens dull skin",
+      "Antioxidant",
+      "Refreshes",
+      "Light vitamin C"
+    ],
+    "skin_types": [
+      "normal",
+      "combination",
+      "all"
+    ],
+    "concerns": [
+      "Citrus extracts may be photosensitizing or irritating for some"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mandelic-acid",
+    "inci_name": "Mandelic Acid",
+    "common_name": "Mandelic Acid",
+    "also_known_as": [
+      "AHA",
+      "Amygdalic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "A large-molecule AHA from bitter almonds that exfoliates slowly, ideal for sensitive and darker skin.",
+    "benefits": [
+      "Very gentle exfoliation",
+      "Evens tone",
+      "Helps acne",
+      "Lower irritation risk"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "oily"
+    ],
+    "concerns": [
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "marula-oil",
+    "inci_name": "Sclerocarya Birrea Seed Oil",
+    "common_name": "Marula Oil",
+    "also_known_as": [
+      "Sclerocarya Birrea"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A lightweight African oil rich in oleic acid and antioxidants that absorbs quickly.",
+    "benefits": [
+      "Fast-absorbing moisture",
+      "Antioxidant",
+      "Softens",
+      "Non-greasy glow"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "High oleic content may not suit very acne-prone skin"
+    ],
+    "comedogenic_rating": 3,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "matrixyl",
+    "inci_name": "Palmitoyl Pentapeptide-4",
+    "common_name": "Matrixyl",
+    "also_known_as": [
+      "Matrixyl",
+      "Pal-KTTKS"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating"
+    ],
+    "description": "A signal peptide that tells skin to produce more collagen for firmer, smoother texture.",
+    "benefits": [
+      "Boosts collagen",
+      "Reduces wrinkles",
+      "Improves firmness",
+      "Gentle anti-aging"
+    ],
+    "skin_types": [
+      "all",
+      "mature",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Needs consistent long-term use"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin C"
+    ],
+    "avoid_with": [
+      "Direct acids (low pH)"
+    ]
+  },
+  {
+    "id": "mineral-oil",
+    "inci_name": "Paraffinum Liquidum",
+    "common_name": "Mineral Oil",
+    "also_known_as": [
+      "Paraffinum Liquidum",
+      "Liquid paraffin"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A highly purified, inert occlusive that locks in moisture without irritation or scent.",
+    "benefits": [
+      "Effective moisture sealing",
+      "Non-irritating",
+      "Fragrance-free",
+      "Stable and cheap"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Heavy feel; cosmetic-grade is non-comedogenic despite myths"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Glycerin",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mugwort-extract",
+    "inci_name": "Artemisia Vulgaris Extract",
+    "common_name": "Mugwort Extract",
+    "also_known_as": [
+      "Artemisia",
+      "Wormwood"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A K-beauty botanical rich in antioxidants that deeply calms sensitive, reactive skin.",
+    "benefits": [
+      "Soothes sensitive skin",
+      "Antioxidant",
+      "Calms redness",
+      "Hydrates"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Possible allergy for Asteraceae-sensitive users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Centella Asiatica",
+      "Panthenol",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "niacinamide",
+    "inci_name": "Niacinamide",
+    "common_name": "Niacinamide",
+    "also_known_as": [
+      "Nicotinamide",
+      "Vitamin B3",
+      "Vitamin PP"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Antioxidant",
+      "Skin-brightening",
+      "Soothing"
+    ],
+    "description": "A versatile form of vitamin B3 that strengthens the skin barrier and regulates oil.",
+    "benefits": [
+      "Minimizes appearance of pores",
+      "Evens skin tone",
+      "Strengthens moisture barrier",
+      "Controls excess sebum"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "acne-prone",
+      "sensitive"
+    ],
+    "concerns": [
+      "Very high concentrations (>10%) can cause flushing or irritation in some users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Salicylic Acid",
+      "Zinc",
+      "Retinol",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "octinoxate",
+    "inci_name": "Ethylhexyl Methoxycinnamate",
+    "common_name": "Octinoxate",
+    "also_known_as": [
+      "Octyl Methoxycinnamate",
+      "OMC"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A widely used chemical UVB filter, lightweight but reef-restricted in some regions.",
+    "benefits": [
+      "UVB protection",
+      "Lightweight",
+      "No white cast"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "No UVA coverage",
+      "Banned in some reef regions",
+      "Photo-degrades"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-7.5%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Octisalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "octisalate",
+    "inci_name": "Ethylhexyl Salicylate",
+    "common_name": "Octisalate",
+    "also_known_as": [
+      "Octyl Salicylate"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A gentle chemical UVB filter that also helps stabilize and solubilize other filters.",
+    "benefits": [
+      "UVB protection",
+      "Stabilizes avobenzone",
+      "Water-resistant",
+      "Lightweight"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "oily"
+    ],
+    "concerns": [
+      "UVB only; needs UVA partners"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "3-5%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Octocrylene",
+      "Homosalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "octocrylene",
+    "inci_name": "Octocrylene",
+    "common_name": "Octocrylene",
+    "also_known_as": [
+      "OC"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A chemical UVB/short-UVA filter mainly used to stabilize and boost avobenzone.",
+    "benefits": [
+      "Stabilizes avobenzone",
+      "UVB protection",
+      "Water-resistant",
+      "Boosts SPF"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Possible contact allergy; degrades over years of storage"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Homosalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "palmitoyl-tetrapeptide-7",
+    "inci_name": "Palmitoyl Tetrapeptide-7",
+    "common_name": "Palmitoyl Tetrapeptide-7",
+    "also_known_as": [
+      "Pal-GQPR"
+    ],
+    "category": [
+      "Anti-aging",
+      "Soothing",
+      "Cell-communicating"
+    ],
+    "description": "A soothing peptide that reduces inflammatory aging and supports firmer skin.",
+    "benefits": [
+      "Calms inflammation",
+      "Supports firmness",
+      "Reduces glycation damage",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "mature",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Gradual results"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-4%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Palmitoyl Tripeptide-1",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "peptide-complex-tripeptide-1",
+    "inci_name": "Palmitoyl Tripeptide-1",
+    "common_name": "Palmitoyl Tripeptide-1",
+    "also_known_as": [
+      "Pal-GHK"
+    ],
+    "category": [
+      "Anti-aging",
+      "Cell-communicating"
+    ],
+    "description": "A collagen-signaling peptide often paired with Tetrapeptide-7 to firm and rebuild skin.",
+    "benefits": [
+      "Stimulates collagen",
+      "Firms skin",
+      "Reduces wrinkles",
+      "Improves elasticity"
+    ],
+    "skin_types": [
+      "mature",
+      "all",
+      "normal"
+    ],
+    "concerns": [
+      "Needs consistent use over months"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-4%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Palmitoyl Tetrapeptide-7",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "panthenol",
+    "inci_name": "Panthenol",
+    "common_name": "Panthenol (Pro-Vitamin B5)",
+    "also_known_as": [
+      "Pro-Vitamin B5",
+      "Dexpanthenol",
+      "Vitamin B5"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing",
+      "Skin-replenishing"
+    ],
+    "description": "A pro-vitamin B5 that hydrates, soothes and supports wound healing.",
+    "benefits": [
+      "Deeply hydrates",
+      "Calms irritation and redness",
+      "Speeds barrier repair",
+      "Softens skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Extremely well tolerated; rare allergy"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Centella Asiatica",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "petrolatum",
+    "inci_name": "Petrolatum",
+    "common_name": "Petrolatum",
+    "also_known_as": [
+      "Petroleum Jelly",
+      "Vaseline",
+      "Soft paraffin"
+    ],
+    "category": [
+      "Occlusive"
+    ],
+    "description": "The most effective occlusive known, reducing water loss by up to 99% to lock in moisture.",
+    "benefits": [
+      "Maximum moisture sealing",
+      "Protects compromised skin",
+      "Aids 'slugging'",
+      "Non-irritating"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Heavy feel; can trap impurities if skin isn't clean"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "phenoxyethanol",
+    "inci_name": "Phenoxyethanol",
+    "common_name": "Phenoxyethanol",
+    "also_known_as": [
+      "PE"
+    ],
+    "category": [
+      "Preservative"
+    ],
+    "description": "A widely used, broad-spectrum preservative that keeps formulas free of bacteria and mold.",
+    "benefits": [
+      "Prevents microbial growth",
+      "Stable across pH",
+      "Paraben alternative",
+      "Effective at low %"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Capped at 1% in the EU",
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ethylhexylglycerin",
+      "Caprylyl Glycol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "phytosphingosine",
+    "inci_name": "Phytosphingosine",
+    "common_name": "Phytosphingosine",
+    "also_known_as": [
+      "PS"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Soothing"
+    ],
+    "description": "A lipid building block of ceramides with soothing and antimicrobial properties.",
+    "benefits": [
+      "Supports barrier",
+      "Anti-inflammatory",
+      "Antimicrobial",
+      "Boosts ceramide production"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "acne-prone",
+      "all"
+    ],
+    "concerns": [
+      "Well tolerated at low %"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.2-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Ceramide NP",
+      "Cholesterol",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "polyglutamic-acid",
+    "inci_name": "Polyglutamic Acid",
+    "common_name": "Polyglutamic Acid",
+    "also_known_as": [
+      "PGA"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "A fermentation-derived humectant said to hold even more moisture than hyaluronic acid at the surface.",
+    "benefits": [
+      "Intense surface hydration",
+      "Forms a moisture-locking film",
+      "Smooths",
+      "Plumps"
+    ],
+    "skin_types": [
+      "dry",
+      "all",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Best layered under an occlusive"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "potassium-sorbate",
+    "inci_name": "Potassium Sorbate",
+    "common_name": "Potassium Sorbate",
+    "also_known_as": [
+      "E202"
+    ],
+    "category": [
+      "Preservative"
+    ],
+    "description": "A gentle food-grade preservative effective against yeast and mold at low pH.",
+    "benefits": [
+      "Mild preservative",
+      "Effective vs yeast and mold",
+      "Paraben-free option"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Needs acidic pH to work; weak vs bacteria alone"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.5%",
+    "ph_range": "below 6.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Sodium Benzoate",
+      "Phenoxyethanol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "propanediol",
+    "inci_name": "Propanediol",
+    "common_name": "Propanediol",
+    "also_known_as": [
+      "1,3-Propanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Solvent"
+    ],
+    "description": "A plant-derived, skin-friendly humectant and solvent that boosts the delivery of other actives.",
+    "benefits": [
+      "Lightweight hydration",
+      "Enhances actives",
+      "Eco-friendly alternative to glycols"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "oily"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "propolis-extract",
+    "inci_name": "Propolis Extract",
+    "common_name": "Propolis Extract",
+    "also_known_as": [
+      "Bee propolis",
+      "Bee glue"
+    ],
+    "category": [
+      "Soothing",
+      "Antibacterial",
+      "Antioxidant"
+    ],
+    "description": "A bee-derived resin with antibacterial and healing properties popular for glowy, calm skin.",
+    "benefits": [
+      "Antibacterial for acne",
+      "Soothes and heals",
+      "Antioxidant glow",
+      "Hydrates"
+    ],
+    "skin_types": [
+      "acne-prone",
+      "dry",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Not vegan",
+      "Avoid if allergic to bee products"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Centella Asiatica",
+      "Honey"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "resveratrol",
+    "inci_name": "Resveratrol",
+    "common_name": "Resveratrol",
+    "also_known_as": [
+      "Grape antioxidant"
+    ],
+    "category": [
+      "Antioxidant",
+      "Anti-aging"
+    ],
+    "description": "A potent grape- and knotweed-derived antioxidant that defends against environmental aging.",
+    "benefits": [
+      "Strong antioxidant",
+      "Calms and brightens",
+      "Anti-aging",
+      "Pairs with night repair"
+    ],
+    "skin_types": [
+      "all",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Oxidizes; usually used in PM"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Ferulic Acid",
+      "Vitamin E",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "retinaldehyde",
+    "inci_name": "Retinal",
+    "common_name": "Retinaldehyde",
+    "also_known_as": [
+      "Retinal",
+      "Vitamin A aldehyde"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-aging"
+    ],
+    "description": "A fast-acting retinoid one step closer to retinoic acid than retinol, with added antibacterial action.",
+    "benefits": [
+      "Faster results than retinol",
+      "Improves wrinkles and tone",
+      "Antibacterial for acne"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Still irritating to sensitive skin",
+      "Increases photosensitivity"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.1%",
+    "ph_range": "5.0-6.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "retinol",
+    "inci_name": "Retinol",
+    "common_name": "Retinol",
+    "also_known_as": [
+      "Vitamin A",
+      "ROL"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-aging",
+      "Antioxidant"
+    ],
+    "description": "A gold-standard vitamin A derivative that accelerates cell turnover and boosts collagen.",
+    "benefits": [
+      "Reduces fine lines and wrinkles",
+      "Smooths texture",
+      "Fades hyperpigmentation",
+      "Unclogs pores"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Can cause dryness, peeling and irritation during retinization",
+      "Increases sun sensitivity"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": "5.0-6.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Peptides",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "retinyl-palmitate",
+    "inci_name": "Retinyl Palmitate",
+    "common_name": "Retinyl Palmitate",
+    "also_known_as": [
+      "Vitamin A Palmitate"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Antioxidant",
+      "Anti-aging"
+    ],
+    "description": "The gentlest, ester form of vitamin A, suited to beginners and sensitive skin.",
+    "benefits": [
+      "Mild anti-aging",
+      "Antioxidant support",
+      "Good retinoid starter",
+      "Low irritation"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Weakest retinoid; slow results",
+      "Still best avoided in pregnancy"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": "5.0-6.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "retinyl-retinoate",
+    "inci_name": "Retinyl Retinoate",
+    "common_name": "Retinyl Retinoate",
+    "also_known_as": [
+      "Hybrid retinoid"
+    ],
+    "category": [
+      "Cell-communicating",
+      "Anti-aging"
+    ],
+    "description": "A hybrid, more stable and potent retinoid offering strong anti-aging with relatively less irritation.",
+    "benefits": [
+      "Potent anti-aging",
+      "More stable than retinol",
+      "Less irritation than retinoic acid",
+      "Boosts collagen"
+    ],
+    "skin_types": [
+      "mature",
+      "normal",
+      "combination"
+    ],
+    "concerns": [
+      "Still a retinoid; avoid in pregnancy and use SPF"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "medium",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.05-0.2%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Glycolic Acid",
+      "Ascorbic Acid (Vitamin C)",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "rosehip-oil",
+    "inci_name": "Rosa Canina Fruit Oil",
+    "common_name": "Rosehip Oil",
+    "also_known_as": [
+      "Rosa Canina",
+      "Rosehip seed oil"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A dry oil rich in linoleic acid and provitamin A that brightens and supports skin renewal.",
+    "benefits": [
+      "Brightens and evens tone",
+      "Rich in essential fatty acids",
+      "Antioxidant",
+      "Improves scars"
+    ],
+    "skin_types": [
+      "normal",
+      "dry",
+      "combination",
+      "mature"
+    ],
+    "concerns": [
+      "Oxidizes quickly; store cool and dark"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Squalane",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "salicylic-acid",
+    "inci_name": "Salicylic Acid",
+    "common_name": "Salicylic Acid",
+    "also_known_as": [
+      "BHA",
+      "Beta Hydroxy Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "BHA",
+      "Anti-acne"
+    ],
+    "description": "An oil-soluble beta-hydroxy acid that penetrates pores to dissolve sebum and dead skin.",
+    "benefits": [
+      "Unclogs and shrinks pores",
+      "Reduces blackheads and breakouts",
+      "Controls oil",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Can over-dry skin",
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-2%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Zinc"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Glycolic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "sea-buckthorn-oil",
+    "inci_name": "Hippophae Rhamnoides Oil",
+    "common_name": "Sea Buckthorn Oil",
+    "also_known_as": [
+      "Hippophae Rhamnoides"
+    ],
+    "category": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "description": "A vivid orange oil packed with omega fatty acids and carotenoids for nourishing, glowy skin.",
+    "benefits": [
+      "Rich in omegas and vitamins",
+      "Antioxidant",
+      "Supports healing",
+      "Nourishes dry skin"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Can temporarily tint skin orange"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Squalane",
+      "Rosehip Oil"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "shea-butter",
+    "inci_name": "Butyrospermum Parkii Butter",
+    "common_name": "Shea Butter",
+    "also_known_as": [
+      "Butyrospermum Parkii",
+      "Karite butter"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive",
+      "Soothing"
+    ],
+    "description": "A rich plant butter packed with fatty acids and vitamins that deeply nourishes dry skin.",
+    "benefits": [
+      "Rich moisture for dry skin",
+      "Soothes and softens",
+      "Supports barrier",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature",
+      "sensitive"
+    ],
+    "concerns": [
+      "Too heavy for very oily or acne-prone skin"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Ceramides",
+      "Squalane",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "snail-mucin",
+    "inci_name": "Snail Secretion Filtrate",
+    "common_name": "Snail Mucin",
+    "also_known_as": [
+      "SSF",
+      "Snail filtrate"
+    ],
+    "category": [
+      "Humectant",
+      "Soothing",
+      "Skin-replenishing"
+    ],
+    "description": "A K-beauty staple rich in glycoproteins and hyaluronic acid that hydrates and repairs.",
+    "benefits": [
+      "Hydrates and plumps",
+      "Supports healing and repair",
+      "Improves texture",
+      "Soothes"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Not vegan"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-95%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Centella Asiatica"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-ascorbyl-phosphate",
+    "inci_name": "Sodium Ascorbyl Phosphate",
+    "common_name": "Sodium Ascorbyl Phosphate (SAP)",
+    "also_known_as": [
+      "SAP"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A stable, water-soluble vitamin C derivative with notable anti-acne benefits.",
+    "benefits": [
+      "Gentle brightening",
+      "Reduces acne-causing bacteria",
+      "Stable at higher pH",
+      "Low irritation"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "acne-prone",
+      "oily"
+    ],
+    "concerns": [
+      "Milder antioxidant effect than LAA"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-5%",
+    "ph_range": "6.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-benzoate",
+    "inci_name": "Sodium Benzoate",
+    "common_name": "Sodium Benzoate",
+    "also_known_as": [
+      "E211"
+    ],
+    "category": [
+      "Preservative"
+    ],
+    "description": "A mild, food-grade preservative effective against bacteria in acidic formulas.",
+    "benefits": [
+      "Gentle preservation",
+      "Effective vs bacteria at low pH",
+      "Often paired with potassium sorbate"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Needs acidic pH; weak alone"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-0.5%",
+    "ph_range": "below 5.5",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Potassium Sorbate",
+      "Phenoxyethanol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-cocoyl-glycinate",
+    "inci_name": "Sodium Cocoyl Glycinate",
+    "common_name": "Sodium Cocoyl Glycinate",
+    "also_known_as": [
+      "Amino acid surfactant"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "An amino-acid-based surfactant giving a soft, fluffy lather with a gentle, skin-friendly pH.",
+    "benefits": [
+      "Very mild cleansing",
+      "Soft lather",
+      "Skin-friendly pH",
+      "Non-stripping"
+    ],
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "all"
+    ],
+    "concerns": [
+      "Premium vs sulfates"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-cocoyl-isethionate",
+    "inci_name": "Sodium Cocoyl Isethionate",
+    "common_name": "Sodium Cocoyl Isethionate",
+    "also_known_as": [
+      "SCI",
+      "Baby foam"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A mild, coconut-derived surfactant prized for creamy lather in syndet bars and cleansers.",
+    "benefits": [
+      "Gentle yet effective",
+      "Creamy lather",
+      "Non-stripping",
+      "Great for solid cleansers"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "10-50%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Coco-Glucoside"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-hyaluronate",
+    "inci_name": "Sodium Hyaluronate",
+    "common_name": "Sodium Hyaluronate",
+    "also_known_as": [
+      "HA salt",
+      "Low molecular weight HA"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "The salt form of hyaluronic acid with a smaller molecule that penetrates deeper.",
+    "benefits": [
+      "Deeper hydration than HA",
+      "Plumps skin",
+      "Lightweight",
+      "Stable"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive"
+    ],
+    "concerns": [
+      "Very low molecular weight may irritate sensitive skin in rare cases"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Retinol",
+      "Vitamin C",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-hydroxide",
+    "inci_name": "Sodium Hydroxide",
+    "common_name": "Sodium Hydroxide",
+    "also_known_as": [
+      "Lye",
+      "NaOH",
+      "Caustic soda"
+    ],
+    "category": [
+      "pH adjuster"
+    ],
+    "description": "A strong base used in tiny amounts to neutralize and set a formula's final pH.",
+    "benefits": [
+      "Adjusts pH",
+      "Activates carbomer gels",
+      "Trace use only"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Caustic in raw form; safe at trace levels in finished products"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "trace (q.s.)",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Carbomer",
+      "Acids (to buffer)"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-lactate",
+    "inci_name": "Sodium Lactate",
+    "common_name": "Sodium Lactate",
+    "also_known_as": [
+      "Lactate salt",
+      "NMF component"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "The salt of lactic acid and a natural moisturizing factor that hydrates and buffers pH.",
+    "benefits": [
+      "Hydrates",
+      "Part of skin's NMF",
+      "Buffers pH",
+      "Mildly exfoliating at high %"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "all"
+    ],
+    "concerns": [
+      "Can increase photosensitivity at high levels"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Glycerin",
+      "Sodium PCA",
+      "Urea"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-laureth-sulfate",
+    "inci_name": "Sodium Laureth Sulfate",
+    "common_name": "Sodium Laureth Sulfate (SLES)",
+    "also_known_as": [
+      "SLES"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A common foaming cleanser, milder than SLS but still potentially stripping for dry skin.",
+    "benefits": [
+      "Strong foaming",
+      "Effective cleansing",
+      "Inexpensive"
+    ],
+    "skin_types": [
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Can be drying or stripping for dry/sensitive skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "5-25%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-lauryl-sulfate",
+    "inci_name": "Sodium Lauryl Sulfate",
+    "common_name": "Sodium Lauryl Sulfate (SLS)",
+    "also_known_as": [
+      "SLS"
+    ],
+    "category": [
+      "Surfactant",
+      "Cleansing"
+    ],
+    "description": "A strong, high-foaming anionic surfactant that cleanses powerfully but can strip and irritate skin.",
+    "benefits": [
+      "Powerful cleansing",
+      "Abundant foam",
+      "Inexpensive"
+    ],
+    "skin_types": [
+      "oily"
+    ],
+    "concerns": [
+      "Harsh and stripping",
+      "Common irritant for sensitive/dry skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Cocamidopropyl Betaine",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-pca",
+    "inci_name": "Sodium PCA",
+    "common_name": "Sodium PCA",
+    "also_known_as": [
+      "NaPCA",
+      "Sodium Pyrrolidone Carboxylate"
+    ],
+    "category": [
+      "Humectant",
+      "Skin-replenishing"
+    ],
+    "description": "A component of skin's natural moisturizing factor that binds water effectively.",
+    "benefits": [
+      "Natural-feel hydration",
+      "Part of skin's NMF",
+      "Lightweight",
+      "Improves softness"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.2-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "squalane",
+    "inci_name": "Squalane",
+    "common_name": "Squalane",
+    "also_known_as": [
+      "Olive squalane",
+      "Sugarcane squalane"
+    ],
+    "category": [
+      "Emollient",
+      "Skin-replenishing"
+    ],
+    "description": "A stable, lightweight oil that mimics skin's own sebum for weightless moisture.",
+    "benefits": [
+      "Softens without greasiness",
+      "Mimics skin lipids",
+      "Suits oily and dry skin",
+      "Locks in moisture"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "oily",
+      "sensitive",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Retinol",
+      "Vitamin C",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sulfur",
+    "inci_name": "Sulfur",
+    "common_name": "Sulfur",
+    "also_known_as": [
+      "Sulphur"
+    ],
+    "category": [
+      "Anti-acne",
+      "Exfoliant"
+    ],
+    "description": "A traditional keratolytic that dries out blemishes and absorbs excess oil.",
+    "benefits": [
+      "Dries blemishes",
+      "Absorbs oil",
+      "Mildly exfoliates",
+      "Helps rosacea and seborrhea"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Drying",
+      "Distinctive smell"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "3-10%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sweet-almond-oil",
+    "inci_name": "Prunus Amygdalus Dulcis Oil",
+    "common_name": "Sweet Almond Oil",
+    "also_known_as": [
+      "Prunus Amygdalus Dulcis"
+    ],
+    "category": [
+      "Emollient",
+      "Soothing"
+    ],
+    "description": "A gentle, vitamin-rich oil that softens and soothes dry, sensitive skin.",
+    "benefits": [
+      "Softens and soothes",
+      "Rich in vitamin E",
+      "Gentle",
+      "Reduces dryness"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Avoid if nut-allergic"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tea-tree-oil",
+    "inci_name": "Melaleuca Alternifolia Leaf Oil",
+    "common_name": "Tea Tree Oil",
+    "also_known_as": [
+      "Melaleuca Alternifolia",
+      "TTO"
+    ],
+    "category": [
+      "Anti-acne",
+      "Antibacterial",
+      "Soothing"
+    ],
+    "description": "An essential oil with antibacterial terpinen-4-ol that helps spot-treat blemishes.",
+    "benefits": [
+      "Antibacterial spot treatment",
+      "Reduces acne",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Can irritate or sensitize undiluted",
+      "Essential oil allergen"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tetrahexyldecyl-ascorbate",
+    "inci_name": "Tetrahexyldecyl Ascorbate",
+    "common_name": "THD Ascorbate",
+    "also_known_as": [
+      "THDA",
+      "Ascorbyl Tetraisopalmitate"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "An oil-soluble, highly stable vitamin C derivative that penetrates deeply with low irritation.",
+    "benefits": [
+      "Stable and gentle vitamin C",
+      "Brightens",
+      "Stimulates collagen",
+      "Suits sensitive skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "mature"
+    ],
+    "concerns": [
+      "Premium cost",
+      "Slower visible results than pure LAA"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-10%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Niacinamide",
+      "Ferulic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tinosorb-m",
+    "inci_name": "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+    "common_name": "Tinosorb M",
+    "also_known_as": [
+      "Bisoctrizole",
+      "MBBT"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A hybrid organic-mineral broad-spectrum filter that both absorbs and scatters UV, highly photostable.",
+    "benefits": [
+      "Broad-spectrum and photostable",
+      "Hybrid action",
+      "Boosts SPF",
+      "Water-resistant"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Not approved in the US",
+      "Can leave slight cast in high amounts"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Tinosorb S",
+      "Uvinul A Plus"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tinosorb-s",
+    "inci_name": "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+    "common_name": "Tinosorb S",
+    "also_known_as": [
+      "Bemotrizinol",
+      "BEMT"
+    ],
+    "category": [
+      "UV filter",
+      "Antioxidant"
+    ],
+    "description": "A modern, photostable broad-spectrum filter offering excellent UVA and UVB coverage.",
+    "benefits": [
+      "Broad-spectrum and photostable",
+      "No white cast",
+      "Cosmetically elegant",
+      "Stabilizes other filters"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Not approved in the US (available in EU/Asia)"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-6%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Tinosorb M",
+      "Avobenzone",
+      "Uvinul A Plus"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "titanium-dioxide",
+    "inci_name": "Titanium Dioxide",
+    "common_name": "Titanium Dioxide",
+    "also_known_as": [
+      "TiO2",
+      "Mineral filter"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A mineral filter that scatters mainly UVB and shorter UVA rays, often paired with zinc oxide.",
+    "benefits": [
+      "UVB and short UVA protection",
+      "Gentle",
+      "Good for sensitive skin",
+      "Stable"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "White cast",
+      "Weaker on long UVA alone"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "2-25%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Zinc Oxide",
+      "Antioxidants"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tocopheryl-acetate",
+    "inci_name": "Tocopheryl Acetate",
+    "common_name": "Tocopheryl Acetate",
+    "also_known_as": [
+      "Vitamin E Acetate",
+      "Stabilized vitamin E"
+    ],
+    "category": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "description": "A stable ester of vitamin E that resists oxidation and conditions skin over time.",
+    "benefits": [
+      "Stable antioxidant",
+      "Moisturizes",
+      "Protects formula",
+      "Supports barrier"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Converts to active form more slowly than pure tocopherol"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Ferulic Acid",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tranexamic-acid",
+    "inci_name": "Tranexamic Acid",
+    "common_name": "Tranexamic Acid",
+    "also_known_as": [
+      "TXA",
+      "TA"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Soothing"
+    ],
+    "description": "A synthetic amino-acid derivative that targets stubborn pigmentation and melasma.",
+    "benefits": [
+      "Fades melasma and dark spots",
+      "Evens tone",
+      "Reduces redness",
+      "Gentle on most skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Best results take 8-12 weeks"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Vitamin C",
+      "Alpha Arbutin",
+      "Kojic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "trehalose",
+    "inci_name": "Trehalose",
+    "common_name": "Trehalose",
+    "also_known_as": [
+      "Mycose"
+    ],
+    "category": [
+      "Humectant",
+      "Antioxidant"
+    ],
+    "description": "A protective sugar that locks in moisture and shields cells from dehydration stress.",
+    "benefits": [
+      "Long-lasting hydration",
+      "Protects against dryness stress",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "urea",
+    "inci_name": "Urea",
+    "common_name": "Urea",
+    "also_known_as": [
+      "Carbamide"
+    ],
+    "category": [
+      "Humectant",
+      "Exfoliant",
+      "Skin-replenishing"
+    ],
+    "description": "A dual-action ingredient that hydrates at low doses and gently exfoliates at higher doses.",
+    "benefits": [
+      "Hydrates dry, rough skin",
+      "Softens calluses at high %",
+      "Part of skin's NMF",
+      "Improves penetration"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Can sting compromised skin at high concentrations"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10% (up to 40% for feet)",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramides",
+      "Glycerin",
+      "Lactic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "uvinul-a-plus",
+    "inci_name": "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+    "common_name": "Uvinul A Plus",
+    "also_known_as": [
+      "DHHB"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A photostable chemical UVA filter offering elegant, broad long-wave UVA protection.",
+    "benefits": [
+      "Strong, stable UVA protection",
+      "No white cast",
+      "Cosmetically elegant"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "oily"
+    ],
+    "concerns": [
+      "Not approved in the US"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Tinosorb S",
+      "Tinosorb M"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ascorbic-acid",
+    "inci_name": "Ascorbic Acid",
+    "common_name": "Vitamin C (L-Ascorbic Acid)",
+    "also_known_as": [
+      "L-Ascorbic Acid",
+      "LAA",
+      "Vitamin C"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "The purest, most-studied form of vitamin C that neutralizes free radicals and brightens.",
+    "benefits": [
+      "Brightens and evens tone",
+      "Boosts collagen synthesis",
+      "Defends against UV and pollution",
+      "Fades dark spots"
+    ],
+    "skin_types": [
+      "normal",
+      "combination",
+      "oily",
+      "mature"
+    ],
+    "concerns": [
+      "Unstable and oxidizes easily",
+      "Can sting sensitive skin at low pH"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "5-20%",
+    "ph_range": "2.5-3.5",
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Ferulic Acid",
+      "Hyaluronic Acid",
+      "Sunscreen"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Niacinamide",
+      "Benzoyl Peroxide",
+      "AHAs"
+    ]
+  },
+  {
+    "id": "tocopherol",
+    "inci_name": "Tocopherol",
+    "common_name": "Vitamin E",
+    "also_known_as": [
+      "Vitamin E",
+      "Tocopheryl Acetate (ester form)"
+    ],
+    "category": [
+      "Antioxidant",
+      "Emollient",
+      "Soothing"
+    ],
+    "description": "A fat-soluble antioxidant that protects lipids and supercharges vitamin C.",
+    "benefits": [
+      "Neutralizes free radicals",
+      "Moisturizes",
+      "Supports barrier repair",
+      "Stabilizes oils"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature",
+      "sensitive"
+    ],
+    "concerns": [
+      "Can be comedogenic for very oily skin at high levels",
+      "Rare contact allergy"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Ferulic Acid",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "witch-hazel",
+    "inci_name": "Hamamelis Virginiana Extract",
+    "common_name": "Witch Hazel",
+    "also_known_as": [
+      "Hamamelis Virginiana"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant",
+      "Astringent"
+    ],
+    "description": "A tannin-rich botanical astringent that tightens pores and calms oily, blemish-prone skin.",
+    "benefits": [
+      "Astringent and pore-refining",
+      "Soothing antioxidant",
+      "Reduces excess oil"
+    ],
+    "skin_types": [
+      "oily",
+      "combination",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Alcohol-distilled versions can be drying"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "xanthan-gum",
+    "inci_name": "Xanthan Gum",
+    "common_name": "Xanthan Gum",
+    "also_known_as": [
+      "Polysaccharide gum"
+    ],
+    "category": [
+      "Thickener",
+      "Stabilizer"
+    ],
+    "description": "A fermentation-derived natural gum that thickens and stabilizes water-based formulas.",
+    "benefits": [
+      "Thickens gels and serums",
+      "Stabilizes emulsions",
+      "Natural-derived",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all"
+    ],
+    "concerns": [
+      "Can feel tacky if overused"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Carbomer",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "niacinamide-zinc",
+    "inci_name": "Zinc",
+    "common_name": "Zinc (Sebum control)",
+    "also_known_as": [
+      "Zinc Gluconate",
+      "Zinc salts"
+    ],
+    "category": [
+      "Anti-acne",
+      "Soothing"
+    ],
+    "description": "Zinc salts that help regulate oil and calm blemish-prone skin, often paired with niacinamide.",
+    "benefits": [
+      "Controls sebum",
+      "Calms acne",
+      "Soothes",
+      "Antibacterial"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Well tolerated at cosmetic levels"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "zinc-oxide",
+    "inci_name": "Zinc Oxide",
+    "common_name": "Zinc Oxide",
+    "also_known_as": [
+      "ZnO",
+      "Mineral filter"
+    ],
+    "category": [
+      "UV filter",
+      "Soothing"
+    ],
+    "description": "A mineral (physical) broad-spectrum filter that reflects UVA and UVB while calming skin.",
+    "benefits": [
+      "Broad-spectrum UVA/UVB",
+      "Gentle for sensitive skin",
+      "Soothing and anti-inflammatory",
+      "Reef-friendlier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Can leave a white cast",
+      "Heavier finish than chemical filters"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "5-25%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Antioxidants",
+      "Titanium Dioxide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "zinc-pca",
+    "inci_name": "Zinc PCA",
+    "common_name": "Zinc PCA",
+    "also_known_as": [
+      "Zinc Pyrrolidone Carboxylate"
+    ],
+    "category": [
+      "Soothing",
+      "Anti-acne",
+      "Humectant"
+    ],
+    "description": "A zinc salt that regulates oil and calms blemish-prone skin while lightly hydrating.",
+    "benefits": [
+      "Controls sebum",
+      "Calms acne",
+      "Antibacterial",
+      "Light hydration"
+    ],
+    "skin_types": [
+      "oily",
+      "acne-prone",
+      "combination"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  }
+]

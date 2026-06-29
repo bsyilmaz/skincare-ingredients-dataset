@@ -1,0 +1,82 @@
+[
+  {
+    "id": "denatured-alcohol",
+    "inci_name": "Alcohol Denat.",
+    "common_name": "Denatured Alcohol",
+    "also_known_as": [
+      "SD Alcohol",
+      "Ethanol",
+      "Alcohol Denat."
+    ],
+    "category": [
+      "Solvent",
+      "Astringent"
+    ],
+    "description": "A fast-drying 'simple' alcohol used for light textures and penetration, but drying in high amounts.",
+    "benefits": [
+      "Quick-dry, weightless finish",
+      "Boosts penetration",
+      "Helps SPF cosmetics feel light"
+    ],
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Drying and potentially barrier-damaging at high levels",
+      "Different from fatty alcohols"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-40%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [],
+    "avoid_with": []
+  },
+  {
+    "id": "witch-hazel",
+    "inci_name": "Hamamelis Virginiana Extract",
+    "common_name": "Witch Hazel",
+    "also_known_as": [
+      "Hamamelis Virginiana"
+    ],
+    "category": [
+      "Soothing",
+      "Antioxidant",
+      "Astringent"
+    ],
+    "description": "A tannin-rich botanical astringent that tightens pores and calms oily, blemish-prone skin.",
+    "benefits": [
+      "Astringent and pore-refining",
+      "Soothing antioxidant",
+      "Reduces excess oil"
+    ],
+    "skin_types": [
+      "oily",
+      "combination",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Alcohol-distilled versions can be drying"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  }
+]

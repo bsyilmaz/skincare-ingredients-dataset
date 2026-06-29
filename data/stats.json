@@ -1,0 +1,51 @@
+{
+  "total_ingredients": 128,
+  "total_categories": 28,
+  "by_category": {
+    "Antioxidant": 47,
+    "Soothing": 35,
+    "Humectant": 26,
+    "Emollient": 25,
+    "Skin-replenishing": 20,
+    "Skin-brightening": 16,
+    "Anti-aging": 14,
+    "Cell-communicating": 10,
+    "UV filter": 10,
+    "Exfoliant": 10,
+    "Anti-acne": 8,
+    "Occlusive": 8,
+    "Surfactant": 7,
+    "Cleansing": 7,
+    "Thickener": 6,
+    "Solvent": 5,
+    "Preservative": 5,
+    "Stabilizer": 4,
+    "AHA": 4,
+    "Antibacterial": 3,
+    "Emulsifier": 3,
+    "pH adjuster": 2,
+    "Astringent": 2,
+    "PHA": 2,
+    "Chelator": 1,
+    "Deodorant": 1,
+    "Fragrance": 1,
+    "BHA": 1
+  },
+  "by_pregnancy_safety": {
+    "avoid": 6,
+    "safe": 104,
+    "caution": 18
+  },
+  "by_origin": {
+    "synthetic": 46,
+    "both": 30,
+    "natural": 52
+  },
+  "by_evidence_level": {
+    "strong": 39,
+    "moderate": 68,
+    "limited": 21
+  },
+  "vegan_friendly": 112,
+  "non_comedogenic": 98
+}

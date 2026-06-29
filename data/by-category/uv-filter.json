@@ -1,0 +1,418 @@
+[
+  {
+    "id": "avobenzone",
+    "inci_name": "Butyl Methoxydibenzoylmethane",
+    "common_name": "Avobenzone",
+    "also_known_as": [
+      "Butyl Methoxydibenzoylmethane",
+      "Parsol 1789"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A chemical filter providing strong UVA protection, usually stabilized by octocrylene.",
+    "benefits": [
+      "Strong UVA protection",
+      "No white cast",
+      "Lightweight"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "concerns": [
+      "Photo-unstable alone; must be stabilized"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-3%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Octocrylene",
+      "Tinosorb S"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "homosalate",
+    "inci_name": "Homosalate",
+    "common_name": "Homosalate",
+    "also_known_as": [
+      "HMS"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A common chemical UVB filter and solvent for other filters in many sunscreens.",
+    "benefits": [
+      "UVB protection",
+      "Solubilizes other filters",
+      "Lightweight feel"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "UVB only",
+      "EU concentration limits under review"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "4-15%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Octisalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "octinoxate",
+    "inci_name": "Ethylhexyl Methoxycinnamate",
+    "common_name": "Octinoxate",
+    "also_known_as": [
+      "Octyl Methoxycinnamate",
+      "OMC"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A widely used chemical UVB filter, lightweight but reef-restricted in some regions.",
+    "benefits": [
+      "UVB protection",
+      "Lightweight",
+      "No white cast"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "No UVA coverage",
+      "Banned in some reef regions",
+      "Photo-degrades"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-7.5%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Octisalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "octisalate",
+    "inci_name": "Ethylhexyl Salicylate",
+    "common_name": "Octisalate",
+    "also_known_as": [
+      "Octyl Salicylate"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A gentle chemical UVB filter that also helps stabilize and solubilize other filters.",
+    "benefits": [
+      "UVB protection",
+      "Stabilizes avobenzone",
+      "Water-resistant",
+      "Lightweight"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "oily"
+    ],
+    "concerns": [
+      "UVB only; needs UVA partners"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "3-5%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Octocrylene",
+      "Homosalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "octocrylene",
+    "inci_name": "Octocrylene",
+    "common_name": "Octocrylene",
+    "also_known_as": [
+      "OC"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A chemical UVB/short-UVA filter mainly used to stabilize and boost avobenzone.",
+    "benefits": [
+      "Stabilizes avobenzone",
+      "UVB protection",
+      "Water-resistant",
+      "Boosts SPF"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Possible contact allergy; degrades over years of storage"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Avobenzone",
+      "Homosalate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tinosorb-m",
+    "inci_name": "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+    "common_name": "Tinosorb M",
+    "also_known_as": [
+      "Bisoctrizole",
+      "MBBT"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A hybrid organic-mineral broad-spectrum filter that both absorbs and scatters UV, highly photostable.",
+    "benefits": [
+      "Broad-spectrum and photostable",
+      "Hybrid action",
+      "Boosts SPF",
+      "Water-resistant"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Not approved in the US",
+      "Can leave slight cast in high amounts"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Tinosorb S",
+      "Uvinul A Plus"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tinosorb-s",
+    "inci_name": "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+    "common_name": "Tinosorb S",
+    "also_known_as": [
+      "Bemotrizinol",
+      "BEMT"
+    ],
+    "category": [
+      "UV filter",
+      "Antioxidant"
+    ],
+    "description": "A modern, photostable broad-spectrum filter offering excellent UVA and UVB coverage.",
+    "benefits": [
+      "Broad-spectrum and photostable",
+      "No white cast",
+      "Cosmetically elegant",
+      "Stabilizes other filters"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Not approved in the US (available in EU/Asia)"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-6%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Tinosorb M",
+      "Avobenzone",
+      "Uvinul A Plus"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "titanium-dioxide",
+    "inci_name": "Titanium Dioxide",
+    "common_name": "Titanium Dioxide",
+    "also_known_as": [
+      "TiO2",
+      "Mineral filter"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A mineral filter that scatters mainly UVB and shorter UVA rays, often paired with zinc oxide.",
+    "benefits": [
+      "UVB and short UVA protection",
+      "Gentle",
+      "Good for sensitive skin",
+      "Stable"
+    ],
+    "skin_types": [
+      "sensitive",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "White cast",
+      "Weaker on long UVA alone"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "2-25%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Zinc Oxide",
+      "Antioxidants"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "uvinul-a-plus",
+    "inci_name": "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+    "common_name": "Uvinul A Plus",
+    "also_known_as": [
+      "DHHB"
+    ],
+    "category": [
+      "UV filter"
+    ],
+    "description": "A photostable chemical UVA filter offering elegant, broad long-wave UVA protection.",
+    "benefits": [
+      "Strong, stable UVA protection",
+      "No white cast",
+      "Cosmetically elegant"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "oily"
+    ],
+    "concerns": [
+      "Not approved in the US"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Tinosorb S",
+      "Tinosorb M"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "zinc-oxide",
+    "inci_name": "Zinc Oxide",
+    "common_name": "Zinc Oxide",
+    "also_known_as": [
+      "ZnO",
+      "Mineral filter"
+    ],
+    "category": [
+      "UV filter",
+      "Soothing"
+    ],
+    "description": "A mineral (physical) broad-spectrum filter that reflects UVA and UVB while calming skin.",
+    "benefits": [
+      "Broad-spectrum UVA/UVB",
+      "Gentle for sensitive skin",
+      "Soothing and anti-inflammatory",
+      "Reef-friendlier"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "all",
+      "dry"
+    ],
+    "concerns": [
+      "Can leave a white cast",
+      "Heavier finish than chemical filters"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "5-25%",
+    "ph_range": null,
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Antioxidants",
+      "Titanium Dioxide"
+    ],
+    "avoid_with": []
+  }
+]

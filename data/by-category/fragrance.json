@@ -1,0 +1,37 @@
+[
+  {
+    "id": "fragrance",
+    "inci_name": "Parfum",
+    "common_name": "Fragrance",
+    "also_known_as": [
+      "Parfum",
+      "Fragrance"
+    ],
+    "category": [
+      "Fragrance"
+    ],
+    "description": "Added scent (natural or synthetic) included for sensory appeal but a common irritant.",
+    "benefits": [
+      "Improves scent and experience",
+      "Masks raw-material odor"
+    ],
+    "skin_types": [
+      "normal"
+    ],
+    "concerns": [
+      "A leading cause of contact allergy and irritation",
+      "Avoid for sensitive/eczema-prone skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "caution",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [],
+    "avoid_with": []
+  }
+]

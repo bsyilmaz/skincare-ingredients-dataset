@@ -1,0 +1,205 @@
+[
+  {
+    "id": "butylene-glycol",
+    "inci_name": "Butylene Glycol",
+    "common_name": "Butylene Glycol",
+    "also_known_as": [
+      "BG",
+      "1,3-Butanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Solvent"
+    ],
+    "description": "A lightweight humectant and solvent that thins formulas and improves slip.",
+    "benefits": [
+      "Light hydration",
+      "Dissolves actives",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "caprylic-capric-triglyceride",
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "common_name": "Caprylic/Capric Triglyceride",
+    "also_known_as": [
+      "Fractionated coconut oil",
+      "MCT"
+    ],
+    "category": [
+      "Emollient",
+      "Solvent"
+    ],
+    "description": "A light, silky emollient from coconut and glycerin that conditions skin and carries actives.",
+    "benefits": [
+      "Lightweight conditioning",
+      "Smooths skin",
+      "Disperses pigments and actives",
+      "Antioxidant carrier"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "concerns": [
+      "Mildly comedogenic for very acne-prone skin"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E",
+      "Tocopherol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "denatured-alcohol",
+    "inci_name": "Alcohol Denat.",
+    "common_name": "Denatured Alcohol",
+    "also_known_as": [
+      "SD Alcohol",
+      "Ethanol",
+      "Alcohol Denat."
+    ],
+    "category": [
+      "Solvent",
+      "Astringent"
+    ],
+    "description": "A fast-drying 'simple' alcohol used for light textures and penetration, but drying in high amounts.",
+    "benefits": [
+      "Quick-dry, weightless finish",
+      "Boosts penetration",
+      "Helps SPF cosmetics feel light"
+    ],
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns": [
+      "Drying and potentially barrier-damaging at high levels",
+      "Different from fatty alcohols"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-40%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [],
+    "avoid_with": []
+  },
+  {
+    "id": "isopropyl-myristate",
+    "inci_name": "Isopropyl Myristate",
+    "common_name": "Isopropyl Myristate",
+    "also_known_as": [
+      "IPM"
+    ],
+    "category": [
+      "Emollient",
+      "Solvent"
+    ],
+    "description": "A fast-absorbing emollient that reduces greasiness but is notably pore-clogging.",
+    "benefits": [
+      "Light, non-greasy feel",
+      "Improves spreadability",
+      "Enhances absorption"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Highly comedogenic; avoid if acne-prone"
+    ],
+    "comedogenic_rating": 5,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Emollient blends"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "propanediol",
+    "inci_name": "Propanediol",
+    "common_name": "Propanediol",
+    "also_known_as": [
+      "1,3-Propanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Solvent"
+    ],
+    "description": "A plant-derived, skin-friendly humectant and solvent that boosts the delivery of other actives.",
+    "benefits": [
+      "Lightweight hydration",
+      "Enhances actives",
+      "Eco-friendly alternative to glycols"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "oily"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-10%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  }
+]

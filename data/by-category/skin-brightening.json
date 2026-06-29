@@ -1,0 +1,720 @@
+[
+  {
+    "id": "alpha-arbutin",
+    "inci_name": "Alpha-Arbutin",
+    "common_name": "Alpha Arbutin",
+    "also_known_as": [
+      "Arbutin"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Antioxidant"
+    ],
+    "description": "A stable, gentle skin-brightener that inhibits melanin production for an even tone.",
+    "benefits": [
+      "Fades dark spots and hyperpigmentation",
+      "Evens skin tone",
+      "Gentler than hydroquinone"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Slow, gradual results"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-2%",
+    "ph_range": "4.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Vitamin C",
+      "Tranexamic Acid",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ascorbyl-glucoside",
+    "inci_name": "Ascorbyl Glucoside",
+    "common_name": "Ascorbyl Glucoside",
+    "also_known_as": [
+      "AA2G",
+      "Vitamin C derivative"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A stable, water-soluble vitamin C derivative that converts to ascorbic acid in the skin.",
+    "benefits": [
+      "Gentle brightening",
+      "Stable vitamin C",
+      "Antioxidant",
+      "Suits sensitive skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Milder and slower than pure LAA"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-5%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Vitamin E",
+      "Ferulic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "azelaic-acid",
+    "inci_name": "Azelaic Acid",
+    "common_name": "Azelaic Acid",
+    "also_known_as": [
+      "AzA",
+      "Nonanedioic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "Skin-brightening",
+      "Anti-acne",
+      "Soothing"
+    ],
+    "description": "A multitasking dicarboxylic acid from grains that treats acne, rosacea and pigmentation.",
+    "benefits": [
+      "Calms redness and rosacea",
+      "Fades post-acne marks",
+      "Unclogs pores",
+      "Gentle brightening"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "all"
+    ],
+    "concerns": [
+      "Temporary tingling or dryness when starting"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "10-20%",
+    "ph_range": "4.0-5.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Salicylic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glutathione",
+    "inci_name": "Glutathione",
+    "common_name": "Glutathione",
+    "also_known_as": [
+      "GSH",
+      "Master antioxidant"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A cellular antioxidant tripeptide used topically for brightening and free-radical defense.",
+    "benefits": [
+      "Antioxidant defense",
+      "Brightens",
+      "Supports even tone",
+      "Detoxifying claims"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Unstable; oral/IV claims are controversial"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glycolic-acid",
+    "inci_name": "Glycolic Acid",
+    "common_name": "Glycolic Acid",
+    "also_known_as": [
+      "AHA",
+      "Hydroxyacetic Acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "The smallest alpha-hydroxy acid, derived from sugar cane, that exfoliates the skin surface.",
+    "benefits": [
+      "Smooths rough texture",
+      "Brightens dull skin",
+      "Fades dark spots",
+      "Boosts radiance"
+    ],
+    "skin_types": [
+      "normal",
+      "oily",
+      "combination",
+      "mature"
+    ],
+    "concerns": [
+      "Increases sun sensitivity",
+      "Stings sensitive or compromised skin"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)",
+      "Salicylic Acid",
+      "Benzoyl Peroxide"
+    ]
+  },
+  {
+    "id": "hydroquinone",
+    "inci_name": "Hydroquinone",
+    "common_name": "Hydroquinone",
+    "also_known_as": [
+      "HQ"
+    ],
+    "category": [
+      "Skin-brightening"
+    ],
+    "description": "A potent, regulated skin-lightening agent that strongly inhibits melanin (prescription in many regions).",
+    "benefits": [
+      "Powerful fading of dark spots and melasma",
+      "Fast visible results"
+    ],
+    "skin_types": [
+      "normal",
+      "combination"
+    ],
+    "concerns": [
+      "Regulated/banned OTC in EU",
+      "Irritation and ochronosis risk with overuse",
+      "Use only under guidance"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "high",
+    "pregnancy_safe": "avoid",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-4%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Sunscreen"
+    ],
+    "avoid_with": [
+      "Benzoyl Peroxide",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "kojic-acid",
+    "inci_name": "Kojic Acid",
+    "common_name": "Kojic Acid",
+    "also_known_as": [
+      "KA"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Antioxidant"
+    ],
+    "description": "A fungal-derived brightener that blocks melanin formation to fade discoloration.",
+    "benefits": [
+      "Fades age spots and melasma",
+      "Brightens",
+      "Antioxidant",
+      "Antimicrobial"
+    ],
+    "skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "concerns": [
+      "Can sensitize skin",
+      "Unstable; oxidizes and discolors"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-2%",
+    "ph_range": "4.0-5.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "licorice-root-extract",
+    "inci_name": "Glycyrrhiza Glabra Root Extract",
+    "common_name": "Licorice Root Extract",
+    "also_known_as": [
+      "Glycyrrhiza Glabra",
+      "Licorice",
+      "Glabridin source"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "description": "A botanical brightener whose glabridin fades dark spots while soothing inflammation.",
+    "benefits": [
+      "Brightens and evens tone",
+      "Calms redness",
+      "Antioxidant",
+      "Soothes"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "magnesium-ascorbyl-phosphate",
+    "inci_name": "Magnesium Ascorbyl Phosphate",
+    "common_name": "Magnesium Ascorbyl Phosphate (MAP)",
+    "also_known_as": [
+      "MAP"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening",
+      "Humectant"
+    ],
+    "description": "A stable, hydrating vitamin C derivative well suited to dry and sensitive skin.",
+    "benefits": [
+      "Gentle brightening",
+      "Hydrating",
+      "Stable at higher pH",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Milder effect than pure LAA"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-5%",
+    "ph_range": "6.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mandarin-orange-extract",
+    "inci_name": "Citrus Nobilis Peel Extract",
+    "common_name": "Mandarin Orange Extract",
+    "also_known_as": [
+      "Citrus Nobilis"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A citrus extract rich in flavonoids and vitamin C that brightens and energizes dull skin.",
+    "benefits": [
+      "Brightens dull skin",
+      "Antioxidant",
+      "Refreshes",
+      "Light vitamin C"
+    ],
+    "skin_types": [
+      "normal",
+      "combination",
+      "all"
+    ],
+    "concerns": [
+      "Citrus extracts may be photosensitizing or irritating for some"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.1-2%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mandelic-acid",
+    "inci_name": "Mandelic Acid",
+    "common_name": "Mandelic Acid",
+    "also_known_as": [
+      "AHA",
+      "Amygdalic acid"
+    ],
+    "category": [
+      "Exfoliant",
+      "AHA",
+      "Skin-brightening"
+    ],
+    "description": "A large-molecule AHA from bitter almonds that exfoliates slowly, ideal for sensitive and darker skin.",
+    "benefits": [
+      "Very gentle exfoliation",
+      "Evens tone",
+      "Helps acne",
+      "Lower irritation risk"
+    ],
+    "skin_types": [
+      "sensitive",
+      "acne-prone",
+      "combination",
+      "oily"
+    ],
+    "concerns": [
+      "Mild photosensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "5-10%",
+    "ph_range": "3.0-4.0",
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Ascorbic Acid (Vitamin C)"
+    ]
+  },
+  {
+    "id": "niacinamide",
+    "inci_name": "Niacinamide",
+    "common_name": "Niacinamide",
+    "also_known_as": [
+      "Nicotinamide",
+      "Vitamin B3",
+      "Vitamin PP"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Antioxidant",
+      "Skin-brightening",
+      "Soothing"
+    ],
+    "description": "A versatile form of vitamin B3 that strengthens the skin barrier and regulates oil.",
+    "benefits": [
+      "Minimizes appearance of pores",
+      "Evens skin tone",
+      "Strengthens moisture barrier",
+      "Controls excess sebum"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "acne-prone",
+      "sensitive"
+    ],
+    "concerns": [
+      "Very high concentrations (>10%) can cause flushing or irritation in some users"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-10%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Salicylic Acid",
+      "Zinc",
+      "Retinol",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sodium-ascorbyl-phosphate",
+    "inci_name": "Sodium Ascorbyl Phosphate",
+    "common_name": "Sodium Ascorbyl Phosphate (SAP)",
+    "also_known_as": [
+      "SAP"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "A stable, water-soluble vitamin C derivative with notable anti-acne benefits.",
+    "benefits": [
+      "Gentle brightening",
+      "Reduces acne-causing bacteria",
+      "Stable at higher pH",
+      "Low irritation"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "acne-prone",
+      "oily"
+    ],
+    "concerns": [
+      "Milder antioxidant effect than LAA"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-5%",
+    "ph_range": "6.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tetrahexyldecyl-ascorbate",
+    "inci_name": "Tetrahexyldecyl Ascorbate",
+    "common_name": "THD Ascorbate",
+    "also_known_as": [
+      "THDA",
+      "Ascorbyl Tetraisopalmitate"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "An oil-soluble, highly stable vitamin C derivative that penetrates deeply with low irritation.",
+    "benefits": [
+      "Stable and gentle vitamin C",
+      "Brightens",
+      "Stimulates collagen",
+      "Suits sensitive skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "mature"
+    ],
+    "concerns": [
+      "Premium cost",
+      "Slower visible results than pure LAA"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.5-10%",
+    "ph_range": "5.0-7.0",
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Niacinamide",
+      "Ferulic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tranexamic-acid",
+    "inci_name": "Tranexamic Acid",
+    "common_name": "Tranexamic Acid",
+    "also_known_as": [
+      "TXA",
+      "TA"
+    ],
+    "category": [
+      "Skin-brightening",
+      "Soothing"
+    ],
+    "description": "A synthetic amino-acid derivative that targets stubborn pigmentation and melasma.",
+    "benefits": [
+      "Fades melasma and dark spots",
+      "Evens tone",
+      "Reduces redness",
+      "Gentle on most skin"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Best results take 8-12 weeks"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "caution",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "2-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Niacinamide",
+      "Vitamin C",
+      "Alpha Arbutin",
+      "Kojic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ascorbic-acid",
+    "inci_name": "Ascorbic Acid",
+    "common_name": "Vitamin C (L-Ascorbic Acid)",
+    "also_known_as": [
+      "L-Ascorbic Acid",
+      "LAA",
+      "Vitamin C"
+    ],
+    "category": [
+      "Antioxidant",
+      "Skin-brightening"
+    ],
+    "description": "The purest, most-studied form of vitamin C that neutralizes free radicals and brightens.",
+    "benefits": [
+      "Brightens and evens tone",
+      "Boosts collagen synthesis",
+      "Defends against UV and pollution",
+      "Fades dark spots"
+    ],
+    "skin_types": [
+      "normal",
+      "combination",
+      "oily",
+      "mature"
+    ],
+    "concerns": [
+      "Unstable and oxidizes easily",
+      "Can sting sensitive skin at low pH"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "5-20%",
+    "ph_range": "2.5-3.5",
+    "time_of_use": "AM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Ferulic Acid",
+      "Hyaluronic Acid",
+      "Sunscreen"
+    ],
+    "avoid_with": [
+      "Retinol",
+      "Niacinamide",
+      "Benzoyl Peroxide",
+      "AHAs"
+    ]
+  }
+]

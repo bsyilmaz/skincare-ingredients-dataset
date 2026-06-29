@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "argan-oil",
+    "inci_name": "Argania Spinosa Kernel Oil",
+    "common_name": "Argan Oil",
+    "also_known_as": [
+      "Argania Spinosa",
+      "Moroccan oil"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A vitamin-E-rich Moroccan oil that softens skin and tames frizz without heaviness.",
+    "benefits": [
+      "Softens and conditions",
+      "Rich in vitamin E",
+      "Antioxidant",
+      "Non-greasy"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Mildly comedogenic for some"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "beeswax",
+    "inci_name": "Cera Alba",
+    "common_name": "Beeswax",
+    "also_known_as": [
+      "Cera Alba",
+      "Cera Flava"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient",
+      "Thickener"
+    ],
+    "description": "A natural wax that forms a protective, breathable layer and thickens balms.",
+    "benefits": [
+      "Seals in moisture",
+      "Thickens balms",
+      "Soothing",
+      "Protective film"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns": [
+      "Not vegan"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "caprylic-capric-triglyceride",
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "common_name": "Caprylic/Capric Triglyceride",
+    "also_known_as": [
+      "Fractionated coconut oil",
+      "MCT"
+    ],
+    "category": [
+      "Emollient",
+      "Solvent"
+    ],
+    "description": "A light, silky emollient from coconut and glycerin that conditions skin and carries actives.",
+    "benefits": [
+      "Lightweight conditioning",
+      "Smooths skin",
+      "Disperses pigments and actives",
+      "Antioxidant carrier"
+    ],
+    "skin_types": [
+      "all",
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "concerns": [
+      "Mildly comedogenic for very acne-prone skin"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E",
+      "Tocopherol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "caprylyl-glycol",
+    "inci_name": "Caprylyl Glycol",
+    "common_name": "Caprylyl Glycol",
+    "also_known_as": [
+      "1,2-Octanediol"
+    ],
+    "category": [
+      "Humectant",
+      "Preservative",
+      "Emollient"
+    ],
+    "description": "A multifunctional humectant that conditions skin and boosts preservative efficacy.",
+    "benefits": [
+      "Hydrates",
+      "Boosts preservation",
+      "Softens skin",
+      "Improves texture"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.3-1.5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "ceramide-np",
+    "inci_name": "Ceramide NP",
+    "common_name": "Ceramide NP",
+    "also_known_as": [
+      "Ceramide 3",
+      "Phytosphingosine ceramide"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Emollient"
+    ],
+    "description": "A key barrier lipid that replenishes the 'mortar' between skin cells to seal in moisture.",
+    "benefits": [
+      "Repairs and strengthens barrier",
+      "Reduces moisture loss",
+      "Calms sensitivity",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "sensitive",
+      "mature"
+    ],
+    "concerns": [
+      "Works best blended with cholesterol and fatty acids"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Cholesterol",
+      "Fatty acids",
+      "Niacinamide",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetearyl-alcohol",
+    "inci_name": "Cetearyl Alcohol",
+    "common_name": "Cetearyl Alcohol",
+    "also_known_as": [
+      "Cetostearyl alcohol",
+      "Fatty alcohol blend"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A blend of cetyl and stearyl fatty alcohols that conditions skin and gives creams body.",
+    "benefits": [
+      "Softens and conditions",
+      "Stabilizes emulsions",
+      "Creamy texture",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare contact sensitivity"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-7%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetyl-alcohol",
+    "inci_name": "Cetyl Alcohol",
+    "common_name": "Cetyl Alcohol",
+    "also_known_as": [
+      "Fatty alcohol",
+      "Palmityl alcohol"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A waxy fatty alcohol (not a drying alcohol) that softens skin and stabilizes creams.",
+    "benefits": [
+      "Softens skin",
+      "Thickens and stabilizes formulas",
+      "Emollient",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare sensitivity; not the same as drying SD alcohol"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cholesterol",
+    "inci_name": "Cholesterol",
+    "common_name": "Cholesterol",
+    "also_known_as": [
+      "Skin lipid"
+    ],
+    "category": [
+      "Skin-replenishing",
+      "Emollient"
+    ],
+    "description": "A natural skin lipid that, alongside ceramides and fatty acids, restores the moisture barrier.",
+    "benefits": [
+      "Restores barrier lipids",
+      "Softens",
+      "Improves elasticity",
+      "Works with ceramides"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "sensitive",
+      "all"
+    ],
+    "concerns": [
+      "Best in 3:1:1 ratio with ceramides and fatty acids"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "0.1-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Ceramide NP",
+      "Phytosphingosine",
+      "Fatty acids"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cocoa-butter",
+    "inci_name": "Theobroma Cacao Seed Butter",
+    "common_name": "Cocoa Butter",
+    "also_known_as": [
+      "Theobroma Cacao"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "description": "A rich, solid plant butter that deeply moisturizes and forms a protective layer on dry skin.",
+    "benefits": [
+      "Rich moisture",
+      "Protective barrier",
+      "Improves elasticity",
+      "Great for body"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Comedogenic; avoid on acne-prone face"
+    ],
+    "comedogenic_rating": 4,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "coconut-oil",
+    "inci_name": "Cocos Nucifera Oil",
+    "common_name": "Coconut Oil",
+    "also_known_as": [
+      "Cocos Nucifera"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "description": "A rich tropical oil with antibacterial lauric acid that deeply moisturizes but clogs acne-prone pores.",
+    "benefits": [
+      "Deep moisture",
+      "Antibacterial",
+      "Softens rough skin",
+      "Good for body and hair"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Highly comedogenic; avoid on face if acne-prone"
+    ],
+    "comedogenic_rating": 4,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "dimethicone",
+    "inci_name": "Dimethicone",
+    "common_name": "Dimethicone",
+    "also_known_as": [
+      "Silicone",
+      "PDMS"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A breathable silicone that smooths skin, blurs pores and forms a protective film.",
+    "benefits": [
+      "Silky smooth finish",
+      "Blurs lines and pores",
+      "Protects barrier",
+      "Reduces water loss"
+    ],
+    "skin_types": [
+      "all",
+      "combination",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Can feel occlusive; wash off well to avoid buildup"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Most actives",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glyceryl-stearate",
+    "inci_name": "Glyceryl Stearate",
+    "common_name": "Glyceryl Stearate",
+    "also_known_as": [
+      "GMS",
+      "Glyceryl Monostearate"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier"
+    ],
+    "description": "A common plant-derived emulsifier that binds oil and water while softening skin.",
+    "benefits": [
+      "Stabilizes creams",
+      "Softens skin",
+      "Improves texture",
+      "Gentle"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Cetyl Alcohol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "grapeseed-oil",
+    "inci_name": "Vitis Vinifera Seed Oil",
+    "common_name": "Grapeseed Oil",
+    "also_known_as": [
+      "Vitis Vinifera"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A light, linoleic-acid-rich oil suited to oily and combination skin, with antioxidant polyphenols.",
+    "benefits": [
+      "Lightweight moisture",
+      "Antioxidant",
+      "Good for oily skin",
+      "Non-greasy"
+    ],
+    "skin_types": [
+      "oily",
+      "combination",
+      "normal",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Oxidizes relatively quickly"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "isopropyl-myristate",
+    "inci_name": "Isopropyl Myristate",
+    "common_name": "Isopropyl Myristate",
+    "also_known_as": [
+      "IPM"
+    ],
+    "category": [
+      "Emollient",
+      "Solvent"
+    ],
+    "description": "A fast-absorbing emollient that reduces greasiness but is notably pore-clogging.",
+    "benefits": [
+      "Light, non-greasy feel",
+      "Improves spreadability",
+      "Enhances absorption"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Highly comedogenic; avoid if acne-prone"
+    ],
+    "comedogenic_rating": 5,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-20%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Emollient blends"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "jojoba-oil",
+    "inci_name": "Simmondsia Chinensis Seed Oil",
+    "common_name": "Jojoba Oil",
+    "also_known_as": [
+      "Simmondsia Chinensis",
+      "Jojoba"
+    ],
+    "category": [
+      "Emollient",
+      "Skin-replenishing"
+    ],
+    "description": "A liquid wax ester closely resembling human sebum, balancing both oily and dry skin.",
+    "benefits": [
+      "Balances oil production",
+      "Non-greasy moisture",
+      "Soothes",
+      "Long shelf life"
+    ],
+    "skin_types": [
+      "all",
+      "oily",
+      "combination",
+      "acne-prone",
+      "dry"
+    ],
+    "concerns": [
+      "Generally non-comedogenic"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E",
+      "Retinol"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lanolin",
+    "inci_name": "Lanolin",
+    "common_name": "Lanolin",
+    "also_known_as": [
+      "Wool wax",
+      "Wool grease"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A wax from sheep's wool that closely mimics human skin lipids for rich, breathable occlusion.",
+    "benefits": [
+      "Rich barrier protection",
+      "Mimics skin lipids",
+      "Heals chapped skin",
+      "Long-lasting"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Not vegan",
+      "Possible allergy for wool-sensitive users"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "marula-oil",
+    "inci_name": "Sclerocarya Birrea Seed Oil",
+    "common_name": "Marula Oil",
+    "also_known_as": [
+      "Sclerocarya Birrea"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A lightweight African oil rich in oleic acid and antioxidants that absorbs quickly.",
+    "benefits": [
+      "Fast-absorbing moisture",
+      "Antioxidant",
+      "Softens",
+      "Non-greasy glow"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "High oleic content may not suit very acne-prone skin"
+    ],
+    "comedogenic_rating": 3,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Squalane",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mineral-oil",
+    "inci_name": "Paraffinum Liquidum",
+    "common_name": "Mineral Oil",
+    "also_known_as": [
+      "Paraffinum Liquidum",
+      "Liquid paraffin"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A highly purified, inert occlusive that locks in moisture without irritation or scent.",
+    "benefits": [
+      "Effective moisture sealing",
+      "Non-irritating",
+      "Fragrance-free",
+      "Stable and cheap"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Heavy feel; cosmetic-grade is non-comedogenic despite myths"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Glycerin",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "rosehip-oil",
+    "inci_name": "Rosa Canina Fruit Oil",
+    "common_name": "Rosehip Oil",
+    "also_known_as": [
+      "Rosa Canina",
+      "Rosehip seed oil"
+    ],
+    "category": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "description": "A dry oil rich in linoleic acid and provitamin A that brightens and supports skin renewal.",
+    "benefits": [
+      "Brightens and evens tone",
+      "Rich in essential fatty acids",
+      "Antioxidant",
+      "Improves scars"
+    ],
+    "skin_types": [
+      "normal",
+      "dry",
+      "combination",
+      "mature"
+    ],
+    "concerns": [
+      "Oxidizes quickly; store cool and dark"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Squalane",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sea-buckthorn-oil",
+    "inci_name": "Hippophae Rhamnoides Oil",
+    "common_name": "Sea Buckthorn Oil",
+    "also_known_as": [
+      "Hippophae Rhamnoides"
+    ],
+    "category": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "description": "A vivid orange oil packed with omega fatty acids and carotenoids for nourishing, glowy skin.",
+    "benefits": [
+      "Rich in omegas and vitamins",
+      "Antioxidant",
+      "Supports healing",
+      "Nourishes dry skin"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Can temporarily tint skin orange"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "0.5-5%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Vitamin E",
+      "Squalane",
+      "Rosehip Oil"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "shea-butter",
+    "inci_name": "Butyrospermum Parkii Butter",
+    "common_name": "Shea Butter",
+    "also_known_as": [
+      "Butyrospermum Parkii",
+      "Karite butter"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive",
+      "Soothing"
+    ],
+    "description": "A rich plant butter packed with fatty acids and vitamins that deeply nourishes dry skin.",
+    "benefits": [
+      "Rich moisture for dry skin",
+      "Soothes and softens",
+      "Supports barrier",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature",
+      "sensitive"
+    ],
+    "concerns": [
+      "Too heavy for very oily or acne-prone skin"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Ceramides",
+      "Squalane",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "squalane",
+    "inci_name": "Squalane",
+    "common_name": "Squalane",
+    "also_known_as": [
+      "Olive squalane",
+      "Sugarcane squalane"
+    ],
+    "category": [
+      "Emollient",
+      "Skin-replenishing"
+    ],
+    "description": "A stable, lightweight oil that mimics skin's own sebum for weightless moisture.",
+    "benefits": [
+      "Softens without greasiness",
+      "Mimics skin lipids",
+      "Suits oily and dry skin",
+      "Locks in moisture"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "oily",
+      "sensitive",
+      "acne-prone"
+    ],
+    "concerns": [
+      "Very well tolerated"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Retinol",
+      "Vitamin C",
+      "Niacinamide",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "sweet-almond-oil",
+    "inci_name": "Prunus Amygdalus Dulcis Oil",
+    "common_name": "Sweet Almond Oil",
+    "also_known_as": [
+      "Prunus Amygdalus Dulcis"
+    ],
+    "category": [
+      "Emollient",
+      "Soothing"
+    ],
+    "description": "A gentle, vitamin-rich oil that softens and soothes dry, sensitive skin.",
+    "benefits": [
+      "Softens and soothes",
+      "Rich in vitamin E",
+      "Gentle",
+      "Reduces dryness"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Avoid if nut-allergic"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "limited",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tocopheryl-acetate",
+    "inci_name": "Tocopheryl Acetate",
+    "common_name": "Tocopheryl Acetate",
+    "also_known_as": [
+      "Vitamin E Acetate",
+      "Stabilized vitamin E"
+    ],
+    "category": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "description": "A stable ester of vitamin E that resists oxidation and conditions skin over time.",
+    "benefits": [
+      "Stable antioxidant",
+      "Moisturizes",
+      "Protects formula",
+      "Supports barrier"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal",
+      "mature"
+    ],
+    "concerns": [
+      "Converts to active form more slowly than pure tocopherol"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Ferulic Acid",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "tocopherol",
+    "inci_name": "Tocopherol",
+    "common_name": "Vitamin E",
+    "also_known_as": [
+      "Vitamin E",
+      "Tocopheryl Acetate (ester form)"
+    ],
+    "category": [
+      "Antioxidant",
+      "Emollient",
+      "Soothing"
+    ],
+    "description": "A fat-soluble antioxidant that protects lipids and supercharges vitamin C.",
+    "benefits": [
+      "Neutralizes free radicals",
+      "Moisturizes",
+      "Supports barrier repair",
+      "Stabilizes oils"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature",
+      "sensitive"
+    ],
+    "concerns": [
+      "Can be comedogenic for very oily skin at high levels",
+      "Rare contact allergy"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "0.5-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Vitamin C",
+      "Ferulic Acid",
+      "Squalane"
+    ],
+    "avoid_with": []
+  }
+]

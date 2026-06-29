@@ -1,0 +1,130 @@
+[
+  {
+    "id": "cetearyl-alcohol",
+    "inci_name": "Cetearyl Alcohol",
+    "common_name": "Cetearyl Alcohol",
+    "also_known_as": [
+      "Cetostearyl alcohol",
+      "Fatty alcohol blend"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A blend of cetyl and stearyl fatty alcohols that conditions skin and gives creams body.",
+    "benefits": [
+      "Softens and conditions",
+      "Stabilizes emulsions",
+      "Creamy texture",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare contact sensitivity"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-7%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cetyl-alcohol",
+    "inci_name": "Cetyl Alcohol",
+    "common_name": "Cetyl Alcohol",
+    "also_known_as": [
+      "Fatty alcohol",
+      "Palmityl alcohol"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier",
+      "Thickener"
+    ],
+    "description": "A waxy fatty alcohol (not a drying alcohol) that softens skin and stabilizes creams.",
+    "benefits": [
+      "Softens skin",
+      "Thickens and stabilizes formulas",
+      "Emollient",
+      "Non-drying"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Rare sensitivity; not the same as drying SD alcohol"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Glyceryl Stearate"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "glyceryl-stearate",
+    "inci_name": "Glyceryl Stearate",
+    "common_name": "Glyceryl Stearate",
+    "also_known_as": [
+      "GMS",
+      "Glyceryl Monostearate"
+    ],
+    "category": [
+      "Emollient",
+      "Emulsifier"
+    ],
+    "description": "A common plant-derived emulsifier that binds oil and water while softening skin.",
+    "benefits": [
+      "Stabilizes creams",
+      "Softens skin",
+      "Improves texture",
+      "Gentle"
+    ],
+    "skin_types": [
+      "all",
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Well tolerated"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "varies",
+    "origin": "both",
+    "typical_concentration": "1-5%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Cetearyl Alcohol",
+      "Cetyl Alcohol"
+    ],
+    "avoid_with": []
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "ethylhexylglycerin",
+    "inci_name": "Ethylhexylglycerin",
+    "common_name": "Ethylhexylglycerin",
+    "also_known_as": [
+      "EHG"
+    ],
+    "category": [
+      "Preservative",
+      "Humectant",
+      "Deodorant"
+    ],
+    "description": "A gentle preservative-booster and skin conditioner that enhances phenoxyethanol.",
+    "benefits": [
+      "Boosts preservative systems",
+      "Conditions skin",
+      "Mild deodorizing",
+      "Reduces preservative load"
+    ],
+    "skin_types": [
+      "all",
+      "sensitive"
+    ],
+    "concerns": [
+      "Rare sensitivity"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "0.3-1%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Phenoxyethanol",
+      "Caprylyl Glycol"
+    ],
+    "avoid_with": []
+  }
+]

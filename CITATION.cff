@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Skincare Ingredients Dataset
+message: "If you use this dataset, please cite it using these metadata."
+type: dataset
+authors:
+  - given-names: Bayram Selim Yılmaz
+    alias: bsyilmaz
+keywords:
+  - skincare
+  - cosmetic ingredients
+  - INCI
+  - dataset
+  - open data
+  - ingredient compatibility
+  - beauty tech
+license: MIT
+repository-code: "https://github.com/bsyilmaz/skincare-ingredients-dataset"
+url: "https://github.com/bsyilmaz/skincare-ingredients-dataset"
+version: "1.0.0"
+date-released: "2026-06-30"

@@ -1,0 +1,341 @@
+[
+  {
+    "id": "beeswax",
+    "inci_name": "Cera Alba",
+    "common_name": "Beeswax",
+    "also_known_as": [
+      "Cera Alba",
+      "Cera Flava"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient",
+      "Thickener"
+    ],
+    "description": "A natural wax that forms a protective, breathable layer and thickens balms.",
+    "benefits": [
+      "Seals in moisture",
+      "Thickens balms",
+      "Soothing",
+      "Protective film"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns": [
+      "Not vegan"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Squalane"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "cocoa-butter",
+    "inci_name": "Theobroma Cacao Seed Butter",
+    "common_name": "Cocoa Butter",
+    "also_known_as": [
+      "Theobroma Cacao"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "description": "A rich, solid plant butter that deeply moisturizes and forms a protective layer on dry skin.",
+    "benefits": [
+      "Rich moisture",
+      "Protective barrier",
+      "Improves elasticity",
+      "Great for body"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Comedogenic; avoid on acne-prone face"
+    ],
+    "comedogenic_rating": 4,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "coconut-oil",
+    "inci_name": "Cocos Nucifera Oil",
+    "common_name": "Coconut Oil",
+    "also_known_as": [
+      "Cocos Nucifera"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "description": "A rich tropical oil with antibacterial lauric acid that deeply moisturizes but clogs acne-prone pores.",
+    "benefits": [
+      "Deep moisture",
+      "Antibacterial",
+      "Softens rough skin",
+      "Good for body and hair"
+    ],
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns": [
+      "Highly comedogenic; avoid on face if acne-prone"
+    ],
+    "comedogenic_rating": 4,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "dimethicone",
+    "inci_name": "Dimethicone",
+    "common_name": "Dimethicone",
+    "also_known_as": [
+      "Silicone",
+      "PDMS"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A breathable silicone that smooths skin, blurs pores and forms a protective film.",
+    "benefits": [
+      "Silky smooth finish",
+      "Blurs lines and pores",
+      "Protects barrier",
+      "Reduces water loss"
+    ],
+    "skin_types": [
+      "all",
+      "combination",
+      "oily",
+      "normal"
+    ],
+    "concerns": [
+      "Can feel occlusive; wash off well to avoid buildup"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-15%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Most actives",
+      "Niacinamide"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "lanolin",
+    "inci_name": "Lanolin",
+    "common_name": "Lanolin",
+    "also_known_as": [
+      "Wool wax",
+      "Wool grease"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A wax from sheep's wool that closely mimics human skin lipids for rich, breathable occlusion.",
+    "benefits": [
+      "Rich barrier protection",
+      "Mimics skin lipids",
+      "Heals chapped skin",
+      "Long-lasting"
+    ],
+    "skin_types": [
+      "dry",
+      "mature",
+      "normal"
+    ],
+    "concerns": [
+      "Not vegan",
+      "Possible allergy for wool-sensitive users"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "medium",
+    "pregnancy_safe": "safe",
+    "vegan": "no",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "mineral-oil",
+    "inci_name": "Paraffinum Liquidum",
+    "common_name": "Mineral Oil",
+    "also_known_as": [
+      "Paraffinum Liquidum",
+      "Liquid paraffin"
+    ],
+    "category": [
+      "Occlusive",
+      "Emollient"
+    ],
+    "description": "A highly purified, inert occlusive that locks in moisture without irritation or scent.",
+    "benefits": [
+      "Effective moisture sealing",
+      "Non-irritating",
+      "Fragrance-free",
+      "Stable and cheap"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Heavy feel; cosmetic-grade is non-comedogenic despite myths"
+    ],
+    "comedogenic_rating": 1,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Glycerin",
+      "Hyaluronic Acid"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "petrolatum",
+    "inci_name": "Petrolatum",
+    "common_name": "Petrolatum",
+    "also_known_as": [
+      "Petroleum Jelly",
+      "Vaseline",
+      "Soft paraffin"
+    ],
+    "category": [
+      "Occlusive"
+    ],
+    "description": "The most effective occlusive known, reducing water loss by up to 99% to lock in moisture.",
+    "benefits": [
+      "Maximum moisture sealing",
+      "Protects compromised skin",
+      "Aids 'slugging'",
+      "Non-irritating"
+    ],
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns": [
+      "Heavy feel; can trap impurities if skin isn't clean"
+    ],
+    "comedogenic_rating": 0,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "synthetic",
+    "typical_concentration": "1-100%",
+    "ph_range": null,
+    "time_of_use": "PM",
+    "evidence_level": "strong",
+    "pairs_well_with": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "avoid_with": []
+  },
+  {
+    "id": "shea-butter",
+    "inci_name": "Butyrospermum Parkii Butter",
+    "common_name": "Shea Butter",
+    "also_known_as": [
+      "Butyrospermum Parkii",
+      "Karite butter"
+    ],
+    "category": [
+      "Emollient",
+      "Occlusive",
+      "Soothing"
+    ],
+    "description": "A rich plant butter packed with fatty acids and vitamins that deeply nourishes dry skin.",
+    "benefits": [
+      "Rich moisture for dry skin",
+      "Soothes and softens",
+      "Supports barrier",
+      "Anti-inflammatory"
+    ],
+    "skin_types": [
+      "dry",
+      "normal",
+      "mature",
+      "sensitive"
+    ],
+    "concerns": [
+      "Too heavy for very oily or acne-prone skin"
+    ],
+    "comedogenic_rating": 2,
+    "irritancy": "low",
+    "pregnancy_safe": "safe",
+    "vegan": "yes",
+    "origin": "natural",
+    "typical_concentration": "1-30%",
+    "ph_range": null,
+    "time_of_use": "AM/PM",
+    "evidence_level": "moderate",
+    "pairs_well_with": [
+      "Ceramides",
+      "Squalane",
+      "Glycerin"
+    ],
+    "avoid_with": []
+  }
+]
