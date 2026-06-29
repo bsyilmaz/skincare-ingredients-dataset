@@ -48,7 +48,7 @@ def main():
     # 2. CSV (flatten list fields with "; ")
     fields = list(data[0].keys())
     with open(os.path.join(DATA, "ingredients.csv"), "w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fields)
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         w.writeheader()
         for row in data:
             flat = dict(row)
